@@ -17,12 +17,8 @@ After completing my PhD in 2019, I joined  the International Center for Biosalin
 Contact
 ------
 
-Centre for Research in Economic Development and International Trade (CREDIT)
-
-University of Nottingham
-
-Nottingham, NG7 2RD, UK
- 
-ahmadzaihayat@outlook.com
-
+Centre for Research in Economic Development and International Trade (CREDIT)/
+University of Nottingham/
+Nottingham, NG7 2RD, UK/
+ahmadzaihayat@outlook.com/
 +44 (0) 777 416 7116
