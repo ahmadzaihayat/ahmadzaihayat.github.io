@@ -8,14 +8,15 @@ redirect_from:
 ---
 
 permalink: /
-title: “Hello there, I am Hayat!”
-excerpt: “About me”
+title: "Hello there, I am Hayat!"
+excerpt: "About me"
 author_profile: true
-redirect_from:
--	/about me\
--	/about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-![Description](/images/me_in_uon3.jpg){ : .align-right width=”300px”}
+![Description](/images/me_in_uon3.jpg){ : .align-right width="300px"}
+I am an applied research economist. 
 
 I am a Visiting Research Fellow at the Centre for Research in Economic Development and International Trade (CREDIT) at the University of Nottingham, UK. As an applied research economist, my work spans multidisciplinary areas intersecting economics, agriculture, food, and the environment. My current research explores a wide range of economic and environmental problems affecting rural and farming communities, with a particular emphasis on low- and middle-income countries, agriculturally marginal areas, and indigenous communities. 
 
