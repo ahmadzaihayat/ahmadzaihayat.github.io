@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Research Fellow at the Centre for Research in Economic Development and International Trade (CREDIT) at the University of Nottingham, UK. As an applied research economist, my work spans multidisciplinary areas intersecting economics, agriculture, food, and the environment. My current research explores a wide range of economic and environmental problems affecting rural and farming communities, with a particular emphasis on low- and middle-income countries, agriculturally marginal areas, and indigenous communities. 
+Hi there, I am Hayat!
+
+I am a Research Fellow at the Centre for Research in Economic Development and International Trade (CREDIT) at the University of Nottingham, UK. As an applied research economist, my work spans multidisciplinary areas intersecting economics, agriculture, food, and the environment. My current research explores a wide range of economic and environmental problems affecting rural and farming communities, with a particular emphasis on low- and middle-income countries, agriculturally marginal areas, and indigenous communities. 
 
 I hold a PhD in Development and Agricultural Economics from the School of Economics at the University of Nottingham, UK. Additionally, I earned a masters degree in Agricultural Economics from Purdue University in Indiana USA, and a BSc in Agronomy and Soil Sciences from Kabul University, Afghanistan. My expertise includes economic modeling, particularly in evaluating the developmental impact of economic interventions and agricultural/environmental policies using quasi-experimental data. I am skilled in data collection, fieldwork, survey design, and conducting feasibility studies and economic experiments. My research often assesses ex-ante economic decisions made by various agents, such as willingness to pay, accept, or participate in adopting innovative technologies, best management practices, and adaptation strategies. I am skilled in econometric and predictive analytics, with extensive experience analyzing complex datasets using STATA, R, and SPSS.
 
