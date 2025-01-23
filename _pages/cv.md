@@ -17,22 +17,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#* Spring 2024: Academic Pages Collaborator
+  #* Github University
+  #* Duties includes: Updates and improvements to template
+  #* Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+  #* Github University
+  #* Duties included: Merging pull requests
+  #* Supervisor: Professor Hub
 
-* Research Fellow (2022 - on)
-  * Centre for Research in Economic Development and International Trade (CREDIT),
+#* Research Fellow (2022 - on)
+  #* Centre for Research in Economic Development and International Trade (CREDIT),
     School of Economics, University of Nottingham, UK
 
-* <span style="margin-right: 50px;">2022 - 24</span>Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
-* 022 - 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
+#* <span style="margin-right: 50px;">2022 - 24</span>Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
+#* 022 - 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
 
 * 2022 - on&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT),
 School of Economics, University of Nottingham, UK
