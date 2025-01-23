@@ -1,6 +1,5 @@
 /* ==========================================================================
-   SIDEBAR
-   ========================================================================== */
+   SIDEBA   ========================================================================== */
 
 /*
    Default
@@ -8,7 +7,7 @@
 
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -24,7 +23,7 @@
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
@@ -81,24 +80,19 @@
   vertical-align: top;
   width: 175px;  /* Set a fixed width */
   height: auto;  /* Allow height to adjust automatically */
-}
 
-.author__avatar img {
-  max-width: 100%; /* Make the image take the full width of the container */
-  height: auto; /* Allow the height to adjust according to the aspect ratio */
-  border-radius: 0; /* Remove the round corners */
-}
+  img {
+    max-width: 100%; /* Make the image take the full width of the container */
+    height: auto; /* Allow the height to adjust according to the aspect ratio */
+    border-radius: 0; /* Remove the round corners */
+  }
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
-  }
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 
@@ -125,6 +119,7 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
