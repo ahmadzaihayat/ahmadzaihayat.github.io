@@ -1,3 +1,11 @@
+
+{% if site.author.resume %}
+  <div class="wordwrap">CV: <a href="{{ site.baseurl }}/files/AhmadzaiResume_01DEC24.pdf" target="_blank">Download CV</a>.</div>
+{% endif %}
+
+<div class="wordwrap">CV: <a href="{{ site.baseurl }}/files/AhmadzaiResume_01DEC24.pdf" target="_blank">Download CV</a>.</div>
+
+
 ---
 layout: archive
 #title: "CV"
