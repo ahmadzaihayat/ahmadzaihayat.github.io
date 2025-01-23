@@ -39,8 +39,7 @@ School of Economics, University of Nottingham, UK
 * 2019 - 22&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Research Fellow, International Center for Biosaline Agriculture (ICBA), Dubai, UAE
 * 2011 - 15&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor/Lecturer, Department of Agricultural Economics and Extension, Kabul University, Kabul, Afghanistan
 * 2012 - 15&nbsp;&nbsp;&nbsp;&nbsp;Senior Economist [0.5 FTE], Department for International Development (DfID), Kabul, Afghanistan
-* Economist/Development Specialist 2011 - 12
-FLAG International Afghanistan (FIA), Kabul, Afghanistan
+* 2011 - 12&nbsp;&nbsp;&nbsp;&nbsp;Economist/Development Specialist,FLAG International Afghanistan (FIA), Kabul, Afghanistan
 * 2011 - 12&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Department of Agronomy & Soil Sciences, Kabul University, Afghanistan
   
 Skills
