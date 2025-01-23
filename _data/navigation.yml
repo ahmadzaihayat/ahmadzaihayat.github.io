@@ -13,7 +13,8 @@ main:
     
   - title: "CV"
  #   url: /cv/
-    url: /files/AhmadzaiResume_01DEC24.pdf
+ #  url: /files/AhmadzaiResume_01DEC24.pdf
+    url: '<a href="/files/AhmadzaiResume_01DEC24.pdf" target="_blank">CV</a>'
 
  # - title: "Talks"
  #    url: /talks/    
