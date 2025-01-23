@@ -6,24 +6,17 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <!-- Home Page Link (Left-Aligned) -->
-          <li class="masthead__menu-item masthead__menu-item--home">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
-          </li>
-
-          <!-- Other Links (Right-Aligned) -->
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.title == "Research" or link.title == "My Library" or link.title == "CV" %}
-              <li class="masthead__menu-item masthead__menu-item--right">
-                <a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a>
-              </li>
-            {% else %}
-              <li class="masthead__menu-item">
-                <a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a>
-              </li>
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+              {% else %}
+              {% assign domain = base_path %}
             {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
