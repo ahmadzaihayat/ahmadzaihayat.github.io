@@ -9,41 +9,38 @@
   height: $masthead-height;
   top: 0;
   width: 100%;
-
+  z-index: 20;
+  
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-  z-index: 20;
+}
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+.masthead__inner-wrap {
+  @include container;
+  @include clearfix;
+  padding: 1em 1em 1em;
+  font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    /* Flexbox to align items */
-    display: flex;
-    justify-content: flex-end; /* Align to the right */
-    align-items: center;       /* Center items vertically */
-    width: 100%;               /* Ensure full width */
-  }
+  display: flex;
+  justify-content: space-between;  /* Push the content to the left and right */
+  align-items: center;             /* Vertically center the items */
+  width: 100%;  /* Full width */
 }
 
 .masthead__menu {
+  /* Just in case the greedy-nav class is overriding, ensure it's flex */
+  display: flex;
+  align-items: center;
+}
 
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
-    display: flex; /* Ensure the list is horizontal */
-    padding-right: 20px; /* Some spacing from the right edge */
-  }
+.masthead__menu ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end; /* Align the items to the right */
 }
 
 .masthead__menu-item {
@@ -51,27 +48,16 @@
   list-style-type: none;
   white-space: nowrap;
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
-
-  /* Add spacing between items */
-  margin-left: 20px;
+  margin-left: 20px; /* Adds spacing between the menu items */
 }
 
-.masthead__menu li a {
-  font-size: 1rem; /* Adjust size if necessary */
-  padding: 0.5rem 1rem; /* Adjust padding for better clickability */
+.masthead__menu-item a {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  color: #333;
+  text-decoration: none;
 }
 
-nav#site-nav {
-  display: flex; 
-  justify-content: flex-end; /* Align the navigation to the right */
-  width: 100%;
-  align-items: center; /* Center vertically */
-}
-
-nav#site-nav .greedy-nav button {
-  display: none; /* Hides the button, you can make it visible on smaller screens if needed */
+.masthead__menu-item a:hover {
+  text-decoration: underline;
 }
