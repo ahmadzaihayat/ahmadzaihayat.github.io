@@ -34,19 +34,14 @@ Work experience
 * <span style="margin-right: 50px;">2022 - 24</span>Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
 * 022 - 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
 
-* Research Fellow 2022 - on
-Centre for Research in Economic Development and International Trade (CREDIT),
+* 2022 - on&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT),
 School of Economics, University of Nottingham, UK
-* Postdoctoral Research Fellow 2019 - 22
-International Center for Biosaline Agriculture (ICBA), Dubai, UAE
-* Assistant Professor/Lecturer 2011 - 15
-Department of Agricultural Economics and Extension, Kabul University, Kabul, Afghanistan
-* Senior Economist [0.5 FTE] 2012 - 15
-Department for International Development (DfID), Kabul, Afghanistan
+* 2019 - 22&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Research Fellow, International Center for Biosaline Agriculture (ICBA), Dubai, UAE
+* 2011 - 15&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor/Lecturer, Department of Agricultural Economics and Extension, Kabul University, Kabul, Afghanistan
+* 2012 - 15&nbsp;&nbsp;&nbsp;&nbsp;Senior Economist [0.5 FTE], Department for International Development (DfID), Kabul, Afghanistan
 * Economist/Development Specialist 2011 - 12
 FLAG International Afghanistan (FIA), Kabul, Afghanistan
-* Teaching Assistant 2011 - 12
-Department of Agronomy & Soil Sciences, Kabul University, Afghanistan
+* 2011 - 12&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Department of Agronomy & Soil Sciences, Kabul University, Afghanistan
   
 Skills
 ======
