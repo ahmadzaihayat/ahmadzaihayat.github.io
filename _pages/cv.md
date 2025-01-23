@@ -31,13 +31,6 @@ Work experience
   * Centre for Research in Economic Development and International Trade (CREDIT),
     School of Economics, University of Nottingham, UK
 
-* 022 - 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
-* <span style="margin-right: 50px;">2022 - 24</span>Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT), School of Economics, University of Nottingham, UK
-
- 
-Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT),
-School of Economics, University of Nottingham, UK   2022 - on
- 
 * Research Fellow 2022 - on
 Centre for Research in Economic Development and International Trade (CREDIT),
 School of Economics, University of Nottingham, UK
