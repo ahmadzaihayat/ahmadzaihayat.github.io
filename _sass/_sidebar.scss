@@ -79,9 +79,10 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  
+  /* Set specific width for square/rectangular avatar */
+  width: 175px;  /* You can change this value to adjust the width */
+  height: 130px;  /* Adjust height to make it rectangular (or square) */
 
   @include breakpoint($large) {
     display: block;
@@ -90,8 +91,11 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    /* Remove border-radius to make the image rectangular/square */
+    border-radius: 0;  /* No rounded corners */
+
+    width: 100%;  /* Ensure the image fills the container */
+    height: 100%; /* Ensure the image maintains the container's height */
 
     @include breakpoint($large) {
       padding: 5px;
