@@ -12,16 +12,18 @@ main:
     url: /mylibrary/    
     
   - title: "CV"
-    url: '<a href="/files/AhmadzaiResume_01DEC24.pdf" target="_blank" a>'
+    url: /files/AhmadzaiResume_01DEC24.pdf
+    # url: /cv/
+    
 
  # - title: "Talks"
- #    url: /talks/    
+ #   url: /talks/    
 
-  # - title: "Portfolio"
-  #  url: /portfolio/
+ # - title: "Portfolio"
+ #  url: /portfolio/
     
-  # - title: "Blog Posts"
-  #  url: /year-archive/
+ # - title: "Blog Posts"
+ #  url: /year-archive/
   
-  # - title: "Guide"
-  #  url: /markdown/
+ # - title: "Guide"
+ #  url: /markdown/
