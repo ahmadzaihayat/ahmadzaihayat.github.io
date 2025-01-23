@@ -26,13 +26,10 @@
       max-width: $x-large;
     }
 
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-    }
+    /* Use Flexbox to align items in the inner wrap */
+    display: flex;
+    justify-content: flex-end; /* Align the nav to the right */
+    align-items: center;       /* Vertically align content */
   }
 }
 
@@ -43,6 +40,9 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+
+    /* Ensure the list is displayed horizontally */
+    display: flex;
   }
 }
 
@@ -55,4 +55,7 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  /* Optional: Add some space between the menu items */
+  margin-left: 20px;
 }
