@@ -12,7 +12,7 @@ main:
     url: /mylibrary/    
     
   - title: "CV"
-    url: /cv/
+ #   url: /cv/
     url: /files/AhmadzaiResume_01DEC24.pdf
 
  # - title: "Talks"
