@@ -12,7 +12,7 @@ main:
     url: /mylibrary/    
     
   - title: "CV"
-    url: '<a href="/files/AhmadzaiResume_01DEC24.pdf" target="_blank">CV</a>'
+    url: '<a href="/files/AhmadzaiResume_01DEC24.pdf" target="_blank" a>'
 
  # - title: "Talks"
  #    url: /talks/    
