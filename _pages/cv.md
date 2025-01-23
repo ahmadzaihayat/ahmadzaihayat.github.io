@@ -27,11 +27,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Research Fellow 2022 - on
+* Research Fellow       |    2022 - on
   * Centre for Research in Economic Development and International Trade (CREDIT),
-School of Economics, University of Nottingham, UK
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    School of Economics, University of Nottingham, UK
+  
  
 Research Fellow, Centre for Research in Economic Development and International Trade (CREDIT),
 School of Economics, University of Nottingham, UK   2022 - on
