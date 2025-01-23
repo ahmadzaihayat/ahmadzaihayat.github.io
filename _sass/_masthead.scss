@@ -26,10 +26,11 @@
       max-width: $x-large;
     }
 
-    /* Use Flexbox to align items in the inner wrap */
+    /* Flexbox to align items */
     display: flex;
-    justify-content: flex-end; /* Align the nav to the right */
-    align-items: center;       /* Vertically align content */
+    justify-content: flex-end; /* Align to the right */
+    align-items: center;       /* Center items vertically */
+    width: 100%;               /* Ensure full width */
   }
 }
 
@@ -40,9 +41,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-
-    /* Ensure the list is displayed horizontally */
-    display: flex;
+    display: flex; /* Ensure the list is horizontal */
+    padding-right: 20px; /* Some spacing from the right edge */
   }
 }
 
@@ -56,6 +56,22 @@
     font-weight: 700;
   }
 
-  /* Optional: Add some space between the menu items */
+  /* Add spacing between items */
   margin-left: 20px;
+}
+
+.masthead__menu li a {
+  font-size: 1rem; /* Adjust size if necessary */
+  padding: 0.5rem 1rem; /* Adjust padding for better clickability */
+}
+
+nav#site-nav {
+  display: flex; 
+  justify-content: flex-end; /* Align the navigation to the right */
+  width: 100%;
+  align-items: center; /* Center vertically */
+}
+
+nav#site-nav .greedy-nav button {
+  display: none; /* Hides the button, you can make it visible on smaller screens if needed */
 }
