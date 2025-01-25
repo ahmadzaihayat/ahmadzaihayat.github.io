@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-------
-
 Hi there, I am Hayat!
  
 I am a Research Fellow at the Centre for Research in Economic Development and International Trade (<a href="https://www.nottingham.ac.uk/credit/" target="_blank">CREDIT</a>) at the <a href="https://www.nottingham.ac.uk/" target="_blank">University of Nottingham</a>, UK. As an applied research economist, my work spans multidisciplinary areas intersecting economics, agriculture, food, and the environment. My current research explores a wide range of economic and environmental problems affecting rural and farming communities, with a particular emphasis on low- and middle-income countries, agriculturally marginal areas, and indigenous communities.
