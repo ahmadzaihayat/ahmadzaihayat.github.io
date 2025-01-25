@@ -16,8 +16,8 @@ main:
     target: "_blank"
     # url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
     
 
  # - title: "Talks"
