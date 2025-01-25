@@ -15,6 +15,9 @@ main:
     url: "/files/AhmadzaiResume_01DEC24.pdf"
     target: "_blank"
     # url: /cv/
+
+  - title: "Pub"
+    url: /pub/
     
 
  # - title: "Talks"
