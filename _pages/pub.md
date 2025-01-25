@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Public"
+title: "Pub"
 permalink: /newpage/
 ---
 
