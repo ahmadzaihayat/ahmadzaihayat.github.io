@@ -12,8 +12,7 @@ main:
     url: /mylibrary/    
     
   - title: "CV"
-    url: /files/AhmadzaiResume_01DEC24.pdf
-    target: "_blank"  # Added target to indicate we want to open this link in a new tab
+    <a href="/files/AhmadzaiResume_01DEC24.pdf" target="_blank">Open Resume</a>
     # url: /cv/
     
 
