@@ -1,7 +1,10 @@
 ---
-layout: page
-title: "Pub"
-permalink: /newpage/
+layout: archive
+#title: "Pub"
+permalink: /pub/
+author_profile: true
+redirect_from:
+  - /pub
 ---
 
 Hi there, I am Hayat!
