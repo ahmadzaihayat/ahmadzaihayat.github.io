@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Pub"
+title: "Research"
 permalink: /pub/
 author_profile: true
 redirect_from:
