@@ -12,7 +12,8 @@ main:
     url: /mylibrary/    
     
   - title: "CV"
-    <a href="/files/AhmadzaiResume_01DEC24.pdf" target="_blank">Open Resume</a>
+    url: "/files/AhmadzaiResume_01DEC24.pdf"
+    target: "_blank"
     # url: /cv/
     
 
