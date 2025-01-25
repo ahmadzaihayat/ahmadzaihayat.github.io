@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research"
-permalink: /pub/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /pub
+  - /research
 ---
 
 ### [a] Journal Articles (peer-reviewed)
