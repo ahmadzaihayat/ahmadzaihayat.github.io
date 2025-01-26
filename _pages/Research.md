@@ -7,7 +7,8 @@ redirect_from:
   - /research
 ---
 
-Research areas: Agricultural & Applied Economics, Environmental Economics, Applied Econometrics, Climate Change Adaptation, Development Impact Evaluation, Sustainable Development & Agricultural Policy. Google Scholar Profile (h-index: 9) | ORCID
+Research areas: Agricultural & Applied Economics, Environmental Economics, Applied Econometrics, Climate Change Adaptation, Development Impact Evaluation, Sustainable Development & Agricultural Policy. <a href="https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en" target="_blank">Google Scholar Profile</a> (h-index: <a href="https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en" target="_blank">9</a>) | <a href="https://orcid.org/0000-0001-9766-7052" target="_blank">ORCID</a>
+
 
 ### [a] Journal Articles (peer-reviewed)
 
