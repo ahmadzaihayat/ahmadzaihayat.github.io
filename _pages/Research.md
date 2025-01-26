@@ -7,6 +7,8 @@ redirect_from:
   - /research
 ---
 
+Research areas: Agricultural & Applied Economics, Environmental Economics, Applied Econometrics, Climate Change Adaptation, Development Impact Evaluation, Sustainable Development & Agricultural Policy. Google Scholar Profile (h-index: 9) | ORCID
+
 ### [a] Journal Articles (peer-reviewed)
 
 - <span style="font-size: 0.9em; line-height: 1.2;">**Ahmadzai H., Morissey O.** | 2024 | Crop Diversification and Farm Household Welfare during Conflict: Afghanistan 2011-2017. *The Journal of Development Studies*, 1-19. [Read Paper](https://doi.org/10.1080/00220388.2024.2404576){:target="_blank"}</span>
