@@ -1,0 +1,21 @@
+body {
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
+}
+
+h3 {
+  margin-top: 2em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+a {
+  color: #1a5276;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(26,82,118,0.3);
+}
+
+a:hover {
+  border-bottom: 1px solid #1a5276;
+}
