@@ -1,0 +1,273 @@
+---
+title: "research"
+toc: true
+toc-location: left
+lightbox: true
+---
+
+<!--
+Abstracts and selected figures from published/accepted papers, working drafts, and in-progress projects...
+-->
+
+The full list of publications is available in my [[web CV](cv.html) | [PDF CV](cv-ahmadzai.pdf)].
+
+
+## Selected Papers
+
+[[Climate shocks, household food security and welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[Ahmadzai, H.](ahmadzaihayat.github.io) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *Food Policy* 134, 102910. [DOI: 10.1016/j.foodpol.2025.102910](https://doi.org/10.1016/j.foodpol.2025.102910)
+
+[Pre-print version](https://www.nottingham.ac.uk/credit/news/papers/2024/2404.aspx)
+<!-- [Replication materials](https://github.com/edrubin/glyphosate-birthweight) -->
+
+::: {.grid style="--bs-columns: 13;"}
+
+::: {.g-col-1 .g-col-md-1}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Exposure to natural disasters in Afghanistan, notably flooding and other shocks exacerbated by climate change, poses a growing concern given the vulnerability of households to poverty and food insecurity. This paper uses two household surveys (2011/12 and 2013/14) to assess the effects of climate shocks (especially floods) on food security and welfare of agricultural households, allowing also for conflict and price shocks. We evaluate the impacts of shocks on several indicators of food security and household welfare comparing affected to non-affected households. The analysis is based on endogenous switching regressions (ESR) and propensity score matching (PSM) allowing for selection bias and addressing endogeneity. Floods are the main shock and have significant adverse effects on food security and welfare indicators. Affected households are likely to experience food diversity reduced from acceptable to moderate, increased food coping stress and two-thirds could be pushed from little to moderate or greater hunger. The estimated average treatment effect in 2013–14 implies a decrease of about a third in food consumption expenditures, with similar reductions in household income and farm revenue. The findings highlight the need for better disaster risk reduction and planning strategies to support affected populations to respond to and recover from climate shocks.
+:::
+
+::: {.g-col-12 .g-start-2 .g-col-md-6}
+```{r}
+#| echo: false
+knitr::include_graphics(c(
+   "Figures/Shocks/ndflood_yea_map.png",
+  "Figures/Shocks/Graph2_Fig.png",
+#  "Figures/Shocks/map-glyph-km2-diff-9512.jpeg",
+  NULL
+))
+```
+:::
+
+:::
+
+<!--
+Coverage: [Science](https://www.science.org/content/article/common-weed-killer-may-be-harming-infants) | [Newsweek](https://www.newsweek.com/glyphosate-low-birth-weight-rural-counties-herbicide-2020499) | [Washington Post](https://www.washingtonpost.com/wellness/2025/03/03/gmos-bad-glyphosate-pesticides/) | [OPB](https://www.opb.org/article/2025/01/27/university-oregon-glyphosate-herbicide-health/) ([Audio: Apple Podcasts](https://podcasts.apple.com/us/podcast/university-of-oregon-study-finds-link-between-widely/id274122573?i=1000685868943)) | [UO News](https://news.uoregon.edu/study-links-popular-herbicide-problems-infant-health) | [Vox](https://www.vox.com/climate/393538/rfk-jr-maha-trump-environmental-movement-far-right) | [US Right to Know](https://usrtk.org/pesticides/glyphosate-health-concerns/)
+
+-->
+<br>
+
+[[Crop Diversification and Farm Household Welfare during Conflict: Afghanistan 2011-2017](https://doi.org/10.1080/00220388.2024.2404576)]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[Ahmadzai, H.](ahmadzaihayat.github.io) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *The Journal of Development Studies*. [DOI: 10.1080/00220388.2024.2404576](https://doi.org/10.1080/00220388.2024.2404576)
+
+[Pre-print version](https://www.nottingham.ac.uk/credit/documents/papers/2023/2301.pdf)
+<!--
+Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [Harvard Dataverse: 10.7910/DVN/NSCJG9](https://doi.org/10.7910/DVN/NSCJG9)
+-->
+
+::: {.grid style="--bs-columns: 13;"}
+
+::: {.g-col-1 .g-col-1}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+We use three waves (2011–2012 to 2016–2017) of nationally representative repeated cross section surveys to study the impact of crop diversification (number of crops grown) on household welfare, measured by real adult equivalent consumption and food expenditure and dietary diversity, in Afghanistan. Diversification is very low (almost half grow only one crop and fewer than a fifth grow three or more crops) but increased during the period. A multinomial endogenous switching regression (MESR) addressing selection bias and endogeneity is used to estimate average treatment effects of moving from one crop to two crops and then to three or more crops. The analysis shows that crop diversification increases household consumption and food spending, and, to a modest extent, dietary diversity compared to undiversified households. This holds irrespective of conflict although the effect varies; households experiencing violence tend to divert spending to food from other consumption spending and only the most diversified are able to increase spending compared to undiversified households. The evidence implies that supporting crop diversification can improve food security (through combined effects on spending and food diversity) and mitigate the negative impacts of conflict.
+:::
+
+::: {.g-col-12 .g-start-2 .g-col-md-6}
+<center>
+```{r}
+#| echo: false
+knitr::include_graphics(c(
+  "Figures/Diversification/outcome_ncrop.png",
+  "Figures/Diversification/biviodiv.png",
+  "Figures/Diversification/bideathvio.png",
+  NULL
+))
+```
+</center>
+
+<!--
+[Pre-print version](Papers/draft-plant-locations.pdf)
+-->
+:::
+
+:::
+
+
+
+<br>
+
+[[Assessing the impact of sand and dust storm on agriculture: Empirical evidence from Mongolia](https://doi.org/10.1080/00220388.2024.2404576)]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[Ahmadzai, H.](ahmadzaihayat.github.io). 2023. *PLOS ONE*. [DOI: 10.1371/journal.pone.0269271](https://doi.org/10.1371/journal.pone.0269271)
+
+<!--
+Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [Harvard Dataverse: 10.7910/DVN/NSCJG9](https://doi.org/10.7910/DVN/NSCJG9)
+-->
+
+::: {.grid style="--bs-columns: 13;"}
+
+::: {.g-col-1 .g-col-1}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Assessing the economic impact of sand and dust storms provides critical insights to policy development and reforms; a subject that is gaining more attention as risk management becomes the dominant approach for hazard mitigation policies. To assess the causal impact of sand and dust storms on agriculture, specifically on crop and livestock revenue and physical production, random year-to-year variations in dust exposure were analyzed using a fixed effect regression. To complete this analysis, weather and climate data from the on-ground meteorological stations was combined with the household level socioeconomic surveys conducted by Mongolia’s National Statistics Office (NSO) over a decade. The descriptive statistics of the meteorological data collected over the eight years period show that, on average, 29 dust events have occurred every year across the country, with greater variation among provinces (Aimags) and regions, reaching up to 108 events in a year in some provinces. The overall trend reveals a slight decrease in the dust events from 2009 to 2019. The econometric results show that value of crop and livestock production (gross income) and physical yields significantly decline in response to higher frequencies of sand and dust storms events. During this period, Mongolia experienced a 2.7% decline in crop revenue as a result of additional sand and dust storms. Assuming 2.7% constant decline in revenues across all agricultural sub-sectors and regions or Aimags, this could lead to about $37.8 million in losses to the economy, which is equivalent to about 0.27% of the national GDP of Mongolia. Increases in the frequency of sand and dust storms could reduce agricultural productivity by between 1.5% to 24%, depending on the crop. Estimates from the modelling exercise are robust to potential endogeneity bias in the measure of sand and dust storms; different specification and identification approaches accounting for the endogeneity bias consistently reveal negative and qualitatively similar impacts of sand and dust storms on crop and livestock productivity.
+:::
+
+::: {.g-col-12 .g-start-2 .g-col-md-6}
+<center>
+```{r}
+#| echo: false
+#| out.width: "100%"
+#| fig.asp: 0.8
+knitr::include_graphics(c(
+ "Figures/SDS/SDS_dist.png",
+  "Figures/SDS/marginal_effects.PNG",
+  NULL
+))
+```
+</center>
+
+<!--
+[Pre-print version](Papers/draft-plant-locations.pdf)
+-->
+:::
+
+:::
+
+<br>
+
+
+
+
+[[Tests for market failures and overcoming transaction costs barriers to market participation in Afghanistan](https://link.springer.com/article/10.1007/s40847-024-00364-2)]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[Ahmadzai, H.](ahmadzaihayat.github.io). 2024. *Journal of Social and Economic Development*. [DOI: 10.1007/s40847-024-00364-2](https://doi.org/10.1007/s40847-024-00364-2)
+
+[Pre-print version](https://www.nottingham.ac.uk/credit/documents/papers/2023/2301.pdf)
+<!--
+Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [Harvard Dataverse: 10.7910/DVN/NSCJG9](https://doi.org/10.7910/DVN/NSCJG9)
+-->
+
+::: {.grid style="--bs-columns: 13;"}
+
+::: {.g-col-1 .g-col-1}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Similar to other fragile poor countries, the majority of the rural population in Afghanistan depend directly or indirectly on small-scale farming for their livelihoods, and poor infrastructure and other barriers restrict access to markets and services, making improving access to local input markets a significant challenge for policymakers aiming to increase productivity. This paper offers empirical evidence addressing two important issues for smallholder participation in input markets: are rural markets incomplete or failing and how do transaction costs affect participation in factor markets? Pooled cross-sectional data from three waves of nationally representative surveys between 2011 and 2016 with a sample of nearly 21,000 households are used. The analysis first tests and rejects the separability hypothesis that household production and consumption decisions are independent which can be interpreted as evidence of market failures. A control function approach with instrumental variables to address endogeneity is employed to estimate household input market participation decisions. Ownership of or access to information and communication technology and transport equipment are used as proxies for transaction costs. Results confirm that lower transaction costs increase input market participation and expenditure on inputs by farm households. Additionally, households with better access to roads and district or provincial market centres have higher market participation and expenditure on input. Reducing transaction costs plays an important role in input use, potentially increasing productivity and incomes.
+:::
+
+::: {.g-col-12 .g-start-2 .g-col-md-6}
+<center>
+```{r}
+#| echo: false
+#| out.width: "100%"
+#| fig.asp: 0.8
+knitr::include_graphics(c(
+ "Figures/marketfailure/markets.png",
+  NULL
+))
+```
+</center>
+
+<!--
+[Pre-print version](Papers/draft-plant-locations.pdf)
+-->
+:::
+
+:::
+
+
+<br>
+
+[[Hope for Change: Is Diversifying Production Portfolios an Ideal Strategy to Boost Farming Efficiency in Afghanistan?](https://journals.sagepub.com/doi/10.1177/14649934211031745)]{style="font-weight: 900; font-size: 12pt;"}
+<br>
+[Ahmadzai, H.](ahmadzaihayat.github.io). 2024. *Progress in Development Studies*. [DOI: 10.1177/14649934211031745](https://doi.org/10.1177/14649934211031745)
+
+[Pre-print version](https://www.nottingham.ac.uk/credit/news/papers/1704.aspx)
+<!--
+Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [Harvard Dataverse: 10.7910/DVN/NSCJG9](https://doi.org/10.7910/DVN/NSCJG9)
+-->
+
+::: {.grid style="--bs-columns: 13;"}
+
+::: {.g-col-1 .g-col-1}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+Using Stochastic Frontier Analysis (SFA), this paper centered on analysing the impact of Crop Diversification (CD) on farm level technical efficiency in Afghanistan. Data from a household level survey conducted in 2013-2004 by the Central Statistic Organization (CSO) is used in the analysis. The results revealed that adoption of a diversified portfolio of crops by the farmers significantly improves technical efficiency. In addition, access to extension services, farm size, cattle, oxen and tractor ownership by the farm households, and regional variables were other important factors that significantly affect technical efficiency. It is evident from the results that the estimated technical efficiency indices from the preferred truncated normal distribution range from 1.5% to 99.29%, with a sample mean of 71.9%. The basic SFA model was investigated for potential endogeneity in crop diversification. Instrumental Variable (IV) method was employed to correct for endogeneity in crop diversification. The results of the IV estimation reveal that failing to account for endogeneity in the basic model leads to a downward bias which is consistent with attenuation bias (measurement error in CD implies that OLS coefficients are biased towards zero, so one would predict IV coefficients greater in absolute size). The results of crop diversification index showed the presence of a relatively low level of crop diversification. Maximum likelihood estimation of translog stochastic frontier model shows that land, labour, and other purchased inputs (fertilizer, seeds, pesticides usage) have positive impact on farm revenues. The results show an evidence of constant returns‐to‐scale.
+:::
+
+::: {.g-col-12 .g-start-2 .g-col-md-6}
+<center>
+```{r}
+#| echo: false
+knitr::include_graphics(c(
+ "Figures/PIDs/THI.png",
+ "Figures/PIDs/efficiency.png",
+ "Figures/PIDs/cd&efficiency_map.png",
+  NULL
+))
+```
+</center>
+
+<!--
+[Pre-print version](Papers/draft-plant-locations.pdf)
+-->
+:::
+
+:::
+
+
+<br>
+
+
+## Other Publications
+
+### Peer-Reviewed Journal Articles
+
+[The Impact of Sand and Dust Storms on Agricultural Productivity in Iraq](https://doi.org/10.1080/17938120.2023.2166748)
+<br> Ahmadzai, H. 2023. *Middle East Development Journal* 15(1): 50–65. [DOI: 10.1080/17938120.2023.2166748](https://doi.org/10.1080/17938120.2023.2166748)
+
+[Orphan Crops: A Best Fit for Dietary Enrichment and Diversification in Highly Deteriorated Marginal Environments](https://doi.org/10.3389/fpls.2022.839704)
+<br> Talabi, A., Vikram, P., Thushar, S., Hifzurrahman, R., Ahmadzai, H., Nhamo, N., Shahid, M., and Singh, R. 2022. *Frontiers in Plant Science* 13: 839704. [DOI: 10.3389/fpls.2022.839704](https://doi.org/10.3389/fpls.2022.839704)
+
+[Policies for Sustainable Agriculture and Livelihood in Marginal Lands: A Review](https://doi.org/10.3390/su13168692)
+<br> Ahmadzai, H., Elouafi, I., and Tutundjian, S. 2021. *Sustainability* 13(16): 8692. [DOI: 10.3390/su13168692](https://doi.org/10.3390/su13168692)
+
+[Development of Quinoa Value Chain to Improve Food and Nutritional Security in Rural Communities in Rehamna, Morocco: Lessons Learned and Perspectives](https://doi.org/10.3390/plants10020301)
+<br> Hirich, A., Rafik, S., Rahmani, M., Fetouab, A., Filali, K., Ahmadzai, H., et al. 2021. *Plants* 10(2): 301. [DOI: 10.3390/plants10020301](https://doi.org/10.3390/plants10020301)
+
+[How is Off-farm Income Linked to On-farm Diversification? Evidence from Afghanistan](https://doi.org/10.7896/j.2010)
+<br> Ahmadzai, H. 2020. *Studies in Agricultural Economics* 122: 1–12. [DOI: 10.7896/j.2010](https://doi.org/10.7896/j.2010)
+
+[Trends in Quinoa Adoption in Marginal Areas, Economic Viability, and Policy Outlook](https://doi.org/10.17306/J.JARD.2020.01351)
+<br> Ahmadzai, H. 2020. *Journal of Agribusiness and Rural Development* 57(3): 235–247. [DOI: 10.17306/J.JARD.2020.01351](https://doi.org/10.17306/J.JARD.2020.01351)
+
+### Book Chapters
+
+[Marginal Areas and Indigenous People: Priorities for Research and Action](https://doi.org/10.1007/978-3-031-15703-5_14)
+<br> Sayed, A., and Ahmadzai, H., et al. 2023. In *Science and Innovations for Food Systems Transformation*, edited by von Braun, J., et al., pp. 261–279. Springer International Publishing. [DOI: 10.1007/978-3-031-15703-5_14](https://doi.org/10.1007/978-3-031-15703-5_14)
+
+[Impacts of Sand and Dust Storms on Agricultural Production](https://doi.org/10.4060/cc8071en)
+<br> Middleton, N., Ahmadzai, H., and Ayurzana, E. 2023. In *Sand and Dust Storms: A Guide to Mitigation, Adaptation, Policy and Risk Management Measures in Agriculture*, edited by Middleton, N., pp. 33–49. FAO. [DOI: 10.4060/cc8071en](https://doi.org/10.4060/cc8071en)
+
+[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-Based Food Products in the UAE](https://doi.org/10.1201/9781003112327-11)
+<br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In *Future of Sustainable Agriculture in Saline Environments*, edited by Negacz, K., et al., pp. 181–199. CRC Press/Taylor & Francis Group. [DOI: 10.1201/9781003112327-11](https://doi.org/10.1201/9781003112327-11)
+
+### Policy Reports and Papers
+
+[Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)
+<br> Ahmadzai, H., Tutundjian, S., et al. 2022. Rome: FAO. [DOI: 10.4060/cc2838en](https://doi.org/10.4060/cc2838en)
+
+[Agri-tech: A Catalyst for Treated Wastewater Deployment in High-Efficiency Food Production Systems](https://www.biosaline.org/projects/developing-national-policy-utilize-treated-sewage-effluent-and-biosolids-controlled)
+<br> Ammar, K., Fatnassi, H., Ahmadzai, H., et al. 2022. International Center for Biosaline Agriculture (ICBA), Dubai, UAE.
+
+[Marginal Areas and Indigenous People: Priorities for Research and Action](https://doi.org/10.48565/fd4f-rk35)
+<br> Sayed, A., and Ahmadzai, H., et al. 2022. *Food Systems Summit Brief*. Food Systems Summit 2021. [DOI: 10.48565/fd4f-rk35](https://doi.org/10.48565/fd4f-rk35)
+
+Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing) and [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)) and Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)) and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective
+<br> Ahmadzai, H. 2021. FAO and International Center for Biosaline Agriculture (ICBA).
+
+### Working Papers
+
+Security, Infrastructure, and the Gender Gap in Rural Labor Markets: Evidence from Afghanistan's Repeated Cross-Sectional Surveys
+<br> Ahmadzai, H. *CREDIT Research Paper. In progress.*
+
+

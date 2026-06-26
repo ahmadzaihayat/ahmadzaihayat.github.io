@@ -1,0 +1,351 @@
+---
+title: "Ahmadzai, CV"
+toc: true
+toc-location: left
+---
+
+<head>
+<script>
+  document.title = "Ahmadzai: CV";
+</script>
+</head>
+
+```{=html}
+<style>
+  h2, h3, h4, h5, h6 {
+    text-transform: lowercase;
+  }
+  .sidebar {
+    text-transform: lowercase;
+  }
+</style>
+```
+
+[PDF](cv-ahmadzai.pdf)
+
+## Education
+
+__2019__: Ph.D. Development and Agricultural Economics, University of Nottingham, UK
+<!--<br>*Committee:* [Oliver Morrissey](https://www.nottingham.ac.uk/economics/people/oliver.morrissey), [Simon Appleton](https://www.nottingham.ac.uk/economics/people/simon.appleton) -->
+
+__2011__: M.S. Agricultural Economics, Purdue University, IN, USA
+
+__2005__: B.S. Agronomy and Soil Sciences, Kabul University, Afghanistan
+
+<br>
+__Primary Research Interests__: Agricultural & Food Policy • Climate Change, Adaptation, & Agricultural Resilience • Agribusiness & Farm Economics • Food Security, Rural Livelihoods & Agrifood Systems • Applied Econometrics and Impact Evaluation
+
+## Academic and Research Appointments
+
+__06/2022–06/2025__: Research Fellow, [Center for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), University of Nottingham, Nottingham, UK.
+
+__04/2019–04/2022__: Postdoctoral Research Fellow, [International Center for Biosaline Agriculture](https://www.biosaline.org/), Dubai, UAE.
+
+__02/2012–09/2015__: Senior Economist/Head of Monitoring, Evaluation & Learning (MEL), [Department for International Development (DfID, now FCDO)](https://www.gov.uk/government/publications/evaluation-of-comprehensive-agriculture-rural-development-facility-programme), Kabul, Afghanistan.
+
+__03/2011–09/2015__: Assistant Professor (Teaching-focused, Part-time), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan.
+
+__07/2011–02/2012__: Economist and Value-Chain Development Specialist, FLAG International Afghanistan (FIA), Kabul, Afghanistan.
+
+__03/2006-10/2007__: Teaching Assistant, Department of Agronomy and Soil Sciences, Kabul University, Kabul, Afghanistan.
+
+## Fellowships and Scholarly Appointments
+
+__2025–2027__: [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/), Middle East Studies Association (MESA). Awarded two-year scholarship (2025–2026), competitively renewed (2026–2027): conducting original policy-relevant research and collaborating with scholars on Middle East and North Africa issues.
+
+## Publications
+
+### Peer-reviewed Journal Articals
+
+__[Climate shocks, household food security and welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)__
+<br> Ahmadzai, H., and Morrissey, O. 2025. _Food Policy_, 134, 102910.
+
+__[Crop Diversification and Farm Household Welfare during Conflict: Afghanistan 2011–2017](https://doi.org/10.1080/00220388.2024.2404576)__
+<br> Ahmadzai, H., and Morrissey, O. 2025. _The Journal of Development Studies_, 61(3), 381–399.
+
+__[Tests for market failures and overcoming transaction costs barriers to market participation in Afghanistan](https://doi.org/10.1007/s40847-024-00364-2)__
+<br> Ahmadzai, H. 2024. _Journal of Social and Economic Development_.
+
+__[Empirical Analysis of Impacts of Sand and Dust Storms on Agricultural Productivity in Mongolia](https://doi.org/10.1371/journal.pone.0269271)__
+<br> Ahmadzai, H., Malhotra, A., and Tutundjian, S. 2023. _PLOS ONE_, 18(2), e0269271.
+
+__[The Impact of Sand and Dust Storms on Agriculture Productivity in Iraq](https://doi.org/10.1080/17938120.2023.2166748)__
+<br> Ahmadzai, H. 2023. _Middle Eastern Development Journal_, 15(1), 50–65.
+
+__[Policies for Sustainable Agriculture and Livelihood in Marginal Lands: A Review](https://doi.org/10.3390/su13168692)__
+<br> Ahmadzai, H., Elouafi, I., and Tutundjian, S. 2022. _Sustainability_, 13(16), 8692.
+
+__[Orphan Crops: A Best Fit for Dietary Enrichment and Diversification in Highly Deteriorated Marginal Environments](https://doi.org/10.3389/fpls.2022.839704)__
+<br> Talabi, A., Vikram, P., Thushar, S., Hifzurrahman, R., Ahmadzai, H., Nhamo, N., Shahid, M., and Singh, R. 2022. _Frontiers in Plant Science_, 13, 839704.
+
+__[Hope for Change: Is Diversifying Production Portfolios an Ideal Strategy to Boost Farming Efficiency in Afghanistan?](https://doi.org/10.1177/14649934211031745)__
+<br> Ahmadzai, H. 2021. _Progress in Development Studies_, 21(3), 1–25.
+
+__[Development of Quinoa Value Chain to Improve Food and Nutritional Security in Rural Communities in Rehamna, Morocco: Lessons Learned and Perspectives](https://doi.org/10.3390/plants10020301)__
+<br> Hirich, A., Rafik, S., Rahmani, M., Fetouab, A., Filali, K., Ahmadzai, H., et al. 2021. _Plants_, 10(2), 301.
+
+__[How is Off-farm Income Linked to On-farm Diversification? Evidence from Afghanistan](https://doi.org/10.7896/j.2010)__
+<br> Ahmadzai, H. 2020. _Studies in Agricultural Economics_, 122(1), 1–12.
+
+__[Trends in Quinoa Adoption in Marginal Areas, Economic Viability, and Policy Outlook](https://doi.org/10.17306/J.JARD.2020.01351)__
+<br> Ahmadzai, H. 2020. _Journal of Agribusiness and Rural Development_, 57(3), 235–247.
+
+
+### Book chapters
+
+__[Marginal Areas and Indigenous People Priorities for Research and Action](https://doi.org/10.1007/978-3-031-15703-5_14)__
+<br> Sayed, A., and Ahmadzai, H., et al. 2023. In _Science and Innovations for Food Systems Transformation_. Springer.
+
+__[Impacts of Sand and Dust Storms on Agricultural Production](https://doi.org/10.4060/cc8071en)__
+<br> Middleton, N., Ahmadzai, H., and Ayurzana, E. 2023. In _Sand and Dust Storms: A Guide to Mitigation, Adaptation, Policy and Risk Management Measures in Agriculture_.
+
+__[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-based Food Products—A Case Study in the United Arab Emirates](https://doi.org/10.1201/9781003112327-11)__
+<br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In _Saline Futures: State-of-the-Art in Saline Agriculture_.
+
+
+### Policy papers
+
+__[Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)__
+<br> Ahmadzai, H., Tutundjian, S., et al. 2022. _SOLAW21 Technical Background Report_, FAO.
+
+__Agri-tech: A Catalyst for Treated Wastewater Deployment in High Efficiency Food Production Systems__
+<br> Ammar, K., Fatnassi, H., and Ahmadzai, H., et al. 2020. _International Center for Biosaline Agriculture (ICBA)_.
+
+__[Marginal Areas and Indigenous People: Priorities for Research and Action](https://doi.org/10.48565/fd4f-rk35)__
+<br> Sayed, A., and Ahmadzai, H., et al. 2022. _Food Systems Summit Brief_.
+
+__Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing) and [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)) and Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)) and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective__
+<br> Ahmadzai, H. 2022. _FAO and ICBA_.
+
+### Working papers
+
+__Security, Infrastructure, and Gender Gap in Rural Labor Markets: Evidence from Afghanistan's Repeated Cross-Sectional Survey__
+<br> Ahmadzai, H.
+<br>_CREDIT Research Paper; in progress_
+
+<!--
+### Dissertations and theses
+
+__Development and Diversification of Small-scale Agriculture in Afghanistan__
+<br> Hayat Ahmadzai. 2019. _PhD Thesis, University of Nottingham_.
+
+__On-farm Grain Storage Losses: Potential Gains from Improved Storage Facility and Management Practices in Afghanistan__
+<br> Hayat Ahmadzai. 2011. _Master's Thesis, Purdue University_.
+
+-->
+
+<!--
+## Teaching
+
+__[EC607: Econometrics (III): Causal inference](https://github.com/edrubin/EC525S25)__
+
+- University of Oregon: [Spring 2026](https://github.com/edrubin/EC607S26),[Spring 2025](https://github.com/edrubin/EC607S25),  [Spring 2024](https://github.com/edrubin/EC607S24), [Spring 2023](https://github.com/edrubin/EC607S23), [Spring 2022](https://github.com/edrubin/EC607S22), [Spring 2021](https://github.com/edrubin/EC607S21), [Spring 2020](https://github.com/edrubin/EC607S20), [Spring 2019](https://github.com/edrubin/EC525S19)
+- Doctoral course; advanced causal-inference methods.
+
+__[EC524: Econometrics (II): Prediction and machine learning](https://github.com/edrubin/EC524W26)__
+
+- University of Oregon: [Winter 2026](https://github.com/edrubin/EC524W26), [Winter 2025](https://github.com/edrubin/EC524W25), [Spring 2024](https://github.com/edrubin/EC524S24), [Winter 2023](https://github.com/edrubin/EC524W23), [Winter 2022](https://github.com/edrubin/EC524W22), [Winter 2021](https://github.com/edrubin/EC524W21); [Winter 2020](https://github.com/edrubin/EC524W20)
+- Masters course; key machine learning methods across diverse prediction contexts.
+
+__[EC421: Introduction to Econometrics (II)](https://github.com/edrubin/EC421S25)__
+
+- University of Oregon: [Spring 2026](https://github.com/edrubin/EC421S26), [Winter 2026](https://github.com/edrubin/EC421W26), [Winter 2025](https://github.com/edrubin/EC421W25), Spring 2023, Winter 2023, Spring 2022, [Winter 2022](https://github.com/edrubin/EC421W22), [Winter 2021](https://github.com/edrubin/EC421W21); [Spring 2020](https://github.com/edrubin/EC421S20); [Winter 2020](https://github.com/edrubin/EC421W20); [Spring 2019](https://github.com/edrubin/EC421S19); [Winter 2019](https://github.com/edrubin/EC421W19)
+- Undergrad. course; foundational topics in regression, visualization, time-series, causal-inference methods.
+
+__[ARE 212: Econometrics - Multiple Equation Estimation](https://edrub.in/ARE212)__
+
+- University of California, Berkeley: Spring 2017, Spring 2018
+- Doctoral course; taught recitation section and built [section website/notes](http://edrub.in/ARE212/).
+
+__STAT 380: Statistics and Applications__
+
+- University of Nebraska–Lincoln: Summer 2012, Fall 2012, Spring 2013
+- Undergraduate course; intermediate statistics.
+
+__STAT 218: Introduction to Statistics__
+
+- University of Nebraska–Lincoln: Spring 2011, Summer 2011, Fall 2011
+- Undergraduate course; introductory statistics.
+
+-->
+
+## Research Grants and Projects
+
+__2022__: [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/), Institute of International Education (IIE). __Principal Investigator__. $100,000.
+
+__2021__: [Catalyzing Investments and Actions to Enhance Resilience Against Sand and Dust Storms in Agriculture](https://www.fao.org/land-water/land/sds/en/), Food and Agriculture Organization of the United Nations (FAO). __Principal Investigator__. $150,000.
+
+__2021__: Climate-Resilient and Gender-Inclusive Cropping Systems in Climate-Vulnerable Areas in Asia and the Pacific, Food and Agriculture Organization of the United Nations (FAO). __Co-Principal Investigator__ with Dr. R.K. Singh (ICBA). $178,441.
+
+__2021__: [Developing National Policy to Utilize Treated Sewage Effluent (TSE) and Biosolids in Controlled Environment Agriculture in the UAE](https://www.biosaline.org/projects/developing-national-policy-utilize-treated-sewage-effluent-and-biosolids-controlled), Ministry of Climate Change and Environment, UAE. __Co-Principal Investigator__ with Dr. Khalil Ammar (ICBA). $100,000.
+
+__2020__: [Adoption and Impact of Quinoa Among Farmers in Marginal Areas of the MENA Region](https://www.biosaline.org/projects/quinoa-marginal-environments-phase-i), International Center for Biosaline Agriculture (ICBA). __Principal Investigator__. $68,488.
+
+__2019__: [Improving Agricultural Resilience to Salinity and Climate Change through Development of Pro-Poor Technologies and Management Strategies (RESADE)](https://www.biosaline.org/projects/improving-agricultural-resilience-salinity-and-climate-change-through-development-and), IFAD and BADEA. __Co-Principal Investigator__ with Dr. R.K. Singh (ICBA). $7,000,000.
+
+__2019__: EXPO Live Phase II: Value Chain Development for Innovative Halophyte-Based Food Systems, International Center for Biosaline Agriculture (ICBA). __Co-Principal Investigator__ with Dr. Dionysia Angeliki Lyra (ICBA). $500,000.
+
+
+## Courses Taught
+
+Assistant Professor (Part-time), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan.
+
+__2011–2015__: [AgEcEx731](https://ku.edu.af/en/department-agricultural-economics-and-extension): Agricultural Production Economics (undergraduate, spring terms)
+
+__2011–2015__: [AgEcEx836](https://ku.edu.af/en/department-agricultural-economics-and-extension): Agricultural Finance (undergraduate, fall terms)
+
+__2012–2014__: [AgEcEx630](https://ku.edu.af/en/department-agricultural-economics-and-extension): Introductory Statistics & Econometrics (undergraduate, spring terms)
+
+__2011–2015__: [AgEcEx735](https://ku.edu.af/en/department-agricultural-economics-and-extension): Research Methods & Projects (undergraduate; seminar-based teaching and student research supervision)
+
+<!--
+## Presentations
+
+__2026__: [ASSA](https://www.aeaweb.org/conference/2026/program) (disussant×2), UCR Public Policy, UCSD
+
+__2025__: [NBER *The Determinants of Mortality*](https://www.nber.org/conferences/determinants-mortality-spring-2025), [The Occasional Workshop](https://occasionalworkshop.weebly.com/)
+
+__2024__: LEEP (University of Exeter), UCSB Bren, [AERE Annual Summer Conference](https://www.aere.org/assets/2024Conference/aeres_202406_agenda_pdf_jwrno.pdf), Oregon State Policy, [EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-24/), Toulouse School of Economics, Paris School of Economics
+
+__2023__: [EPIC Junior Workshop (UChicago)](https://epic.uchicago.edu/events/event/epic-junior-workshop/)
+
+__2022__: UC Berkeley ARE, GRIPS, Oregon State, EAERE Annual Conference, University of Nebraska–Lincoln
+
+__2021__: AERE Remote Conference, RFF/EPA, CU Environmental & Resource Economics Workshop
+
+__2020__: ASSA Annual Meeting, AERE Remote Conference, Duke Energy Data Analytics Symposium, RFF/EPA
+
+__2019__: Western Economic Association Internation (WEAI) Annual Conference
+
+__2018__: The Occasional Workshop; World Congress of Environmental Economics (WCERE); UC Berkeley, Computational Text Analysis Working Group; University of Oregon, Economics
+
+__2017__: IGC-PEDL Workshop at Oxford; Heartland Environmental and Resource Economics Workshop; Berkeley Development Economics Lunch; Camp Resources; AAEA Annual Meeting; UC Berkeley, Summer Econ. Research Seminar; AERE Annual Summer Conference; 22nd Annual POWER Conference on Energy Research and Policy
+
+__2016__: UC Berkeley, Environmental and Resource Economics Seminar
+
+__2015__: UC Berkeley, Environmental and Resource Economics Seminar
+
+__2013__: University of Nebraska–Lincoln, Statistics Departmental Seminar
+
+__2012__: International Conference of Agricultural Economists (poster)
+
+-->
+## Selected Presentations 
+
+### Conference Presentations
+
+__2026__: ["Climate Shocks, Household Food Security, and Welfare in Afghanistan."](https://events.stanford.edu/event/climate-shocks) Stanford University (FSE, Center for South Asia, Abbasi Program in Islamic Studies), April 22, 2026. [Event](https://events.stanford.edu/event/climate-shocks) | [Slides](https://drive.google.com/file/d/1_xzmXf0kd7cABDYvQabhi8MPQ6AZFFJh/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=0zVWiYonPZQ)
+
+__2023__: "Crop Diversification and Farm Household Welfare during Conflict: Afghanistan 2011–2017." 6th MaDE Workshop on Emerging and Developing Countries, Loughborough Business School (online), June 5–6, 2023. [Slides](https://drive.google.com/file/d/1_OJ7qVbJ4nJHphjMYlg_F_vQzdkJMX6V/view?usp=sharing)
+
+__2021__: "Assessing the Impact of Sand and Dust Storms on Agriculture." Food and Agriculture Organization (FAO), Bangkok (online), April 7–11, 2021. [Slides](https://drive.google.com/file/d/15vnAJJ8dUBBBHMeEBbwPwQujCnZBs-eB/view?usp=sharing)
+
+__2020__: "Salinization in Marginal Agricultural Areas: Implications for Global Food Security and Poverty." International Center for Biosaline Agriculture (ICBA), Dubai, UAE, June 27–28, 2020. [Slides](https://drive.google.com/file/d/1t7CZONEBa4hoXLN__lOMOvQC8IkjNpiD/view?usp=sharing)
+
+__2018__: "Tests for Market Failures and Overcoming Transaction Costs in Afghanistan." Ph.D. Conference, School of Economics, University of Nottingham, Nottingham, UK, September 8–12, 2018. [Slides](https://drive.google.com/file/d/1-F3a3IYfdy6u72XIJxjQmuQCleb-ipkK/view)
+
+__2017__: "Status, Patterns, and Microeconomic Drivers of the Extent of Diversity in Crop Production: Evidence from Afghanistan." Ph.D. Conference, School of Economics, University of Nottingham, Nottingham, UK, November 15–20, 2017. [Slides](https://drive.google.com/file/d/1tBB9ckL00INzdV2QYwZyuxGGb7dQGwRh/view)
+
+__2016__: "Crop Diversification and Technical Efficiency: Evidence from Afghanistan." Ph.D. Conference, School of Economics, University of Nottingham, Nottingham, UK, November 12–16, 2016. [Slides](https://drive.google.com/file/d/1KHySQD_8y7S1k5tXvSlhw4IbW_DFn3uC/view)
+
+### Invited Talks
+
+__2021__: "Challenge and Opportunity of Quinoa for Food and Nutrition Security." Panellist with Warren T.K. Lee, chaired by Bo Zhou. FAO Regional Office for Asia and the Pacific (FAO-RAP), Bangkok, Thailand, November 7–8.
+
+__2021__: "The Economics of Quinoa Production: Opportunity for Marginal Farmers." Panellist with Dr. José Graziano da Silva. Global Forum on Innovations for Marginal Environments (GFIME), Dubai, UAE, November 20–21.
+
+## Awards
+
+__2021__: Co-recipient, [Khalifa International Award for Date Palm and Agricultural Innovation (KIADPAI)](https://www.kiaai.ae/en), awarded as Co-PI of the [Project](https://www.biosaline.org/news/2022-03-14-12684): "From Desert Farm to Fork: Value Chain Development for Innovative Halophyte-Based Food Products."
+
+__2015__: PhD Scholarship Award, University of Nottingham and Islamic Development Bank (IsDB).
+
+__2007__: Graduate Scholarship Award, Purdue University and USAID-funded Afghan Merit Scholar Program (AMSP).
+
+
+<!--
+## Academic service
+
+### Advising
+
+- *PhD committee chair:* Andrew Dickinson (co-chair); Mary Kopriva (Wade) (co-chair); Connor Lennon (co-chair); Emmett Reynier (co-chair); Garrett Stanford (chair)
+- *PhD dissertation committee:* Christie Downs (Finance); Claire Lepault (Paris School of Economics); Steven (Marcus) Holloway; Sichao Jiang; Woocheol Kim (Marketing); Kyu Matsuzawa; Robert McDonough; Max Mindock; John Morehouse; Jenni Putz; Meysam Rabiee (Operations and Analytics); Brietta Russell; Steven Walton (Computer Science); Kyle Wilson; Micaela Wood; Dante Yasui (*in progress*)
+- *Masters thesis:* Pilar Mullican
+- *Undergraduate thesis:* Joseph Andersen (department; advisor), Zoë Arnaut (honors; reader); Eleanor Franks (honors; reader); Lorissa Hughes (*in progress*; chair); Kara Krnacik (honors; chair); Aidan Potts (honors; chair); Sam Schroeder (honors; chair)
+
+### Additional
+
+- Co-founded/organize [TWEEDS](https://tweeds.io) (The Workshop in Environmental Economics and Data Science)
+- Co-founded/organize [OSWEET](https://edrub.in/osweet) (Online Student Workshop in Environmental, Energy, and Transportation)
+- Co-founded/Organized [GoSee](https://gosee.io) (Global Open Series in Environmental Economics)
+- Co-organize applied microeconometrics workshop at UO
+- **Referee:** [Proceedings of the National Academy of Science (PNAS)](https://www.pnas.org/), [American Economic Review: Insights (AERI)](https://www.aeaweb.org/journals/aeri), [American Economic Journal: Economic Policy](https://www.aeaweb.org/journals/pol) (AEJ Policy), [Journal of the Association of Environmental and Resource Economists](https://www.journals.uchicago.edu/toc/jaere/current) (JAERE), [Journal of Public Economics](https://www.journals.elsevier.com/journal-of-public-economics) (JPubE), [Journal of Health Economics](https://www.sciencedirect.com/journal/journal-of-health-economics) (JHE), [Economic Inquiry](https://onlinelibrary.wiley.com/journal/14657295), [Journal of Environmental Economics and Management](https://www.journals.elsevier.com/journal-of-environmental-economics-and-management) (JEEM), [Land Economics](https://uwpress.wisc.edu/journals/journals/le.html), [Resource and Energy Economics](https://www.journals.elsevier.com/resource-and-energy-economics) (REE), [Energy Policy](https://www.journals.elsevier.com/energy-policy), [Journal of Policy Analysis and Management](http://www.appam.org/jpam/) (JPAM), [Water Economics and Policy](https://www.worldscientific.com/worldscinet/wep) (WEP), [Nature Communications: Earth & Environment](https://www.nature.com/commsenv/), [Economics Letters](https://www.sciencedirect.com/journal/economics-letters)
+- **Grant reviewer:** [Alfred P. Sloan Foundation](https://sloan.org/), [Stanford University *Sustainability Accelerator*](https://sustainability-accelerator.stanford.edu/)
+- Coordinated Environmental, Energy, and Resource Economics Seminar (UCB)
+- Organized biweekly (twice per week) departmental lunches (UCB)
+- Organized third-year research workshop (UCB)
+- Organized departmental coffee hour (UCB)
+- Mentored first-year graduate students (UCB)
+
+-->
+
+## Service and Professional Activities
+
+__2019–present__: External Research Affiliate, Centre for Research in Economic Development and International Trade (CREDIT), University of Nottingham, UK.
+
+__2019–present__: Member, Agribusiness Sub-network, Association of Agricultural Research Institutions in the Near East and North Africa (AARINENA).
+
+__2019–present__: Peer Reviewer for _The Journal of Development Studies_; _Food Policy_; _Sustainability_ (MDPI); _PLOS ONE_; _Review of Development Economics_; _Humanities and Social Sciences Communications_; _Agriculture_ (MDPI); _Cogent Economics and Finance_; _Journal of Social and Economic Development_.
+
+## Media and Outreach
+
+__2022__: [“How COVID-19 Crisis Undermined MENA States' Food Security.”](https://www.arabnews.com/node/1971861/middle-east) _Arab News_, November 20, 2022.
+
+__2021__: [“Agriculture in Marginal Lands.”](https://encyclopedia.pub/15034) _Scholarly Community Encyclopedia_, September 2021.
+
+__2021__: [“New Study Reviews Status of Marginal Lands Worldwide.”](https://www.biosaline.org/news/2021-08-29-7471) ICBA News Article, August 29, 2021.
+
+__2021__: [“World's Indigenous Peoples to Bear Brunt of Climate Change, Warns UN Paper.”](https://www.biosaline.org/news/2021-04-25-7369) ICBA News Article, April 25, 2021.
+
+__2020__: [“ICBA's Quinoa Varieties Show Promise in Morocco.”](https://www.biosaline.org/news/2021-04-15-7397) ICBA News Article, April 15, 2020.
+
+## Professional Development
+
+2020 Responsible Conduct in Research: Research, Ethics, and Compliance. [Collaborative Institutional Training Initiative (CITI)](https://about.citiprogram.org/course/responsible-conduct-of-research-refresher/). Completed online, March 24–April 4.
+
+2013 Leadership and Governance of Development Programs and Projects. [Crown Agents International](https://www.crownagents.com/training/our-training-subjects/leadership/). Dubai, United Arab Emirates, November 11–15.
+
+2012 Management of Agriculture and Rural Development Projects. [Asian Institute of Technology (AIT)](https://extension.ait.ac.th/upcoming). Bangkok, Thailand, November 21–December 1.
+
+2008 Academic English and Cross-Cultural Training Program. [International Centre for Intercultural Communication (ICIC)](https://extension.ait.ac.th/upcoming). IUPUI, Indianapolis, IN, USA, October 29, 2007–May 30, 2008.
+
+
+## Skills 
+
+- __Economic & Policy Analysis:__ Impact evaluation, program evaluation, benefit-cost analysis, value-for-money analysis, cost-effectiveness analysis, project appraisal, feasibility studies, policy analysis and design, welfare and distributional analysis, economic valuation, decision analysis.
+- __Quantitative Methods:__ Applied econometrics, causal inference, quasi-experimental methods (IV, DiD, RDD, matching, discrete choice, panel data), experimental methods (RCTs, field experiments), survey design and sampling, household survey design and implementation, mixed-methods research.
+- __Project and Grant Management:__ Grant writing and proposal development, multi-partner project management, interdisciplinary collaboration, stakeholder engagement, capacity building and mentoring, technical and policy reporting, scientific writing, theory of change development, M&E framework design.
+- __Software and Tools:__ Stata, R, Python (Pandas, NumPy, Statsmodels, Seaborn, Matplotlib), Power BI, QGIS, Excel, Survey Solutions, Qualtrics, LaTeX, Markdown.
+
+### Linguistic
+
+- English (fluent)
+- Pashto (native)
+- Dari/Persian (fluent)
+- Arabic (conversational)
+
+<!--
+## Contact
+
+- __email__ ahmadzaihayat `ampersat` outlook `period` com
+- __website__ [https://ahmadzaihayat.github.io/](https://ahmadzaihayat.github.io/)
+-->
+
+```{r}
+#| include: false
+#| echo: false
+#| warning: false
+#| message: false
+
+source(here::here('cv-script.R'))
+```

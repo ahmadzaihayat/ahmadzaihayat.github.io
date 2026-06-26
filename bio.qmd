@@ -1,0 +1,53 @@
+---
+title: "bio"
+toc: false
+lightbox: true
+---
+<!-- 
+### about me
+
+I'm an environmental economist who researches how human behavior (individual and policy) affects social equity and the health of the natural world.
+
+As an empiricist, I tackle these issues with a toolbox that draws from econometrics, statistics, and data science.
+
+Examples from a few recent projects…
+<br>↳ [*unequal health impacts from glyphosate exposure*](https://www.pnas.org/doi/10.1073/pnas.2413013121)
+<br>↳ [*curiously missing data in air-quality monitors*](https://doi.org/10.1162/rest_a_01477)
+<br>↳ [*disparate wildfire smoke avoidance*](Papers/draft-smoke.pdf)
+<br>↳ [*a field experiment in customer-based gender bias*](https://www.journals.uchicago.edu/doi/abs/10.1086/733049)
+<br>↳ [*pitfalls of machine learning in a 2SLS framework*](https://doi.org/10.48550/arXiv.2505.13422)
+<br>↳ [*strategic location of coal-fueled power plants*](Papers/draft-plant-locations.pdf). -->
+
+
+I am an agricultural economist studying how agricultural and food policies, climate, and market conditions shape the welfare of farm households and rural communities. My research applies econometric methods for causal inference and impact evaluation, drawing on panel data, administrative records, household surveys, climate data, and field experiments. As an applied economist, my work draws on tools from econometrics, statistics, and data science to answer policy- and program-relevant questions.
+
+I hold a PhD in [Economics](https://www.nottingham.ac.uk/economics/), with a focus on development and agricultural economics, from the [University of Nottingham](https://www.nottingham.ac.uk/), and an MS in [Agricultural and Applied Economics](https://ag.purdue.edu/department/agecon/) from [Purdue University](https://www.purdue.edu/). My research has appeared in *Food Policy*, *The Journal of Development Studies*, *PLOS ONE*, and other peer-reviewed journals, and I have presented my work at conferences and workshops including an invited talk at Stanford University.
+
+I am currently an external research fellow at the [Centre for Research in Economic Development and International Trade](https://www.nottingham.ac.uk/credit/) (CREDIT), University of Nottingham, and a [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/) (2025–2027) with the Middle East Studies Association. Previously, I was a Postdoctoral Research Fellow at the [International Center for Biosaline Agriculture](https://www.biosaline.org/) (ICBA), and a Senior Economist and Head of Monitoring, Evaluation, and Learning (MEL) at the UK's [Department for International Development](https://www.gov.uk/government/publications/evaluation-of-comprehensive-agriculture-rural-development-facility-programme) (DfID) in Afghanistan. I have led and contributed to multi-country research programs totaling over $10 million in competitive research funding, working with governments, international organizations, and development agencies across the full research cycle, from study design and data collection through econometric analysis and policy translation. Earlier in my career, I taught [agricultural economics](https://ku.edu.af/en/department-agricultural-economics-and-extension) at [Kabul University](https://ku.edu.af/en).
+
+I am looking for opportunities at universities, think tanks, and research and policy institutions working on agricultural and food policy, climate resilience, and rural economic outcomes.
+
+### Contact
+
+ahmadzaihayat@outlook.com 
+<br>
+Durham, North Carolina, USA
+<br> 
+[Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat)
+<!--
+[Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat)
+-->
+
+<!--
+### me
+
+*Passions:* [the](Gallery/20250101-IMG_4248.jpg){.lightbox} [ou](Gallery/20250215-IMG_5072){.lightbox}t[do](Gallery/20250827-IMG_0238.jpg){.lightbox}o[rs](Gallery/20240629-IMG_8522_jpg.jpg){.lightbox}, [bikes](Gallery/20241221-IMG_3497_jpg.jpg){.lightbox}, [good](Gallery/20241227-IMG_4034_jpg.jpg){.lightbox} [food](Gallery/20251102-IMG_0950.jpg){.lightbox}/[coffee](Gallery/20250731-IMG_9226.jpg){.lightbox}/[drink](Gallery/20250307-IMG_5581.jpg){.lightbox}[s](Gallery/20250328-IMG_6463.jpg){.lightbox}, [road](Gallery/20250628-IMG_7806.jpg){.lightbox} [trips](Gallery/20250628-IMG_7797.jpg){.lightbox} [beauty](Gallery/20250629-IMG_7900.jpg){.lightbox}/[photography](photos.html), data, and (most of all) [loving](Gallery/20240806-IMG_0409_jpg.jpg){.lightbox} [people](Gallery/20250726-IMG_9131.jpg){.lightbox}.
+
+### more
+
+A few other professional items… I
+<br>↳ *started [TWEEDS](https://tweeds.io) with [friends](https://tweeds.io/about/)*,
+<br>↳ *help run [OSWEET](https://edrub.in/osweet.html)*,
+<br>↳ *co-wrote a textbook,*<br>[↳]{style="color: white;"} *[Data Science and Public Policy](https://link.springer.com/book/10.1007/978-3-030-71352-2)*.
+
+Please look around or [contact me](contact.html). -->

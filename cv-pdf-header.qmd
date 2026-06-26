@@ -1,0 +1,53 @@
+---
+editor:
+  render-on-save: true
+format:
+  typst:
+    toc: false
+    columns: 1
+    page-size: us-letter
+    mainfont: "Source Serif Pro"
+    monofont: "PT Mono"
+    fontsize: 9.50pt
+    margin:
+      x: 1.0in
+      y: 1.0in
+    bibliographystyle: nature
+    keep-typ: false
+   #  number-sections: true
+   # section-numbering: 1.1 |
+    include-in-header:
+      - text: |
+          #show heading: set text(font: "PT Mono", weight: "bold", style: "normal", fill: rgb("#34495E"), size: .80em,)
+          #show heading: set block(above: 2em, below: 1em)
+          #set list(indent: .5em)
+---
+
+```{=typst}
+#v(-3em)
+```
+
+:::{style="font-family: 'PT Mono'; font-size: 12pt;"}
+[**Hayatullah Ahmadzai**]{style="color: #34495E;"}
+:::
+
+```{=typst}
+#v(-0.5em)
+```
+
+:::{style="font-family: 'PT Mono'; font-size: 9.5pt;"}
+[[ahmadzaihayat@outlook.com](mailto:ahmadzaihayat@outlook.com) | +1 919-408-6341 | [Website](https://ahmadzaihayat.github.io) | [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) 
+]{style="color: #163729;"}
+
+<!--
+Academic CV Color Palette (saved options)
+
+#1F4E79  - Academic Navy (US econ standard, safest choice)
+#2C3E50  - Slate Blue-Gray (modern, clean, slightly softer navy)
+#34495E  - Dark Blue-Gray (minimalist, neutral academic tone)
+#3A6EA5  - Steel Blue (slightly more personality, still professional)
+#222222  - Near Black (ultra conservative, print-safe)
+#4CAF50  - Template Green (original default, tech/web feel)
+#163729  - Forest Academic Green (your LaTeX-style deep green)
+-->
+:::

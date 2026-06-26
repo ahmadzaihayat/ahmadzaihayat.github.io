@@ -1,0 +1,30 @@
+slides/
+Gallery/
+photos/
+Papers/
+site_libs/
+*.mp4
+*.gif
+*.psd
+*.tif
+*.png
+*.jpg
+*.pdf# Files to ignore
+*_cache
+*SavedFiles/
+*DS_Store
+
+# Data for blogs
+blog/posts/blog-20170806/data*
+
+/.quarto/
+
+**/*.quarto_ipynb
+.Rproj.user
+slides/
+Gallery/
+photos/
+*.mp4
+*.gif
+*.psd
+*.tif
