@@ -1,31 +1,21 @@
-slides/
-Gallery/
-photos/
-Papers/
-site_libs/
-*.mp4
-*.gif
-*.psd
-*.tif
-*.png
-*.jpg
-*.pdf# Files to ignore
-*_cache
-*SavedFiles/
-*DS_Store
-
-# Data for blogs
-blog/posts/blog-20170806/data*
-
-/.quarto/
-
-**/*.quarto_ipynb
-.Rproj.user
-slides/
-Gallery/
-photos/
-*.mp4
-*.gif
-*.psd
-*.tif
+# Quarto
+.quarto/
 _site/
+
+# R project files
+.Rproj.user
+.Rhistory
+
+# OS files
+.DS_Store
+
+# caches
+*_cache
+
+# large media files (optional)
+*.mp4
+*.psd
+*.tif
+
+# blog data
+blog/posts/blog-20170806/data*
