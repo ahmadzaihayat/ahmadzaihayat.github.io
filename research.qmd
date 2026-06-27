@@ -159,7 +159,7 @@ Similar to other fragile poor countries, the majority of the rural population in
 #| out.width: "100%"
 #| fig.asp: 0.8
 knitr::include_graphics(c(
- "Figures/Marketfailure/markets.png"
+ "Figures/marketfailure/markets.png"
 ))
 ```
 </center>
