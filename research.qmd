@@ -34,9 +34,8 @@ Exposure to natural disasters in Afghanistan, notably flooding and other shocks 
 ```{r}
 #| echo: false
 knitr::include_graphics(c(
-   "Figures/Shocks/ndflood_yea_map.png",
-  "Figures/Shocks/Graph2_Fig.png",
-#  "Figures/Shocks/map-glyph-km2-diff-9512.jpeg",
+  "Figures/Shocks/ndflood_year_map.png",
+  "Figures/Shocks/Graph2_Fig1.png",
   NULL
 ))
 ```
@@ -117,7 +116,7 @@ Assessing the economic impact of sand and dust storms provides critical insights
 #| fig.asp: 0.8
 knitr::include_graphics(c(
  "Figures/SDS/SDS_dist.png",
-  "Figures/SDS/marginal_effects.PNG",
+  "Figures/SDS/marginal_effects.png",
   NULL
 ))
 ```

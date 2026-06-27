@@ -3,16 +3,7 @@ title: ""
 toc: false
 page-layout: full
 ---
-<!--
-```{r}
-#| echo: false
-#| column: screen
 
- knitr::include_graphics(c(
-  "photos/esa-banff-cropped.png",
-  NULL
-))
-```
 -->
 <!--
 [AERE\@OSWEET]{style="font-size: calc(1.325rem + 0.9vw); color: black !important; font-weight: 600;"}
