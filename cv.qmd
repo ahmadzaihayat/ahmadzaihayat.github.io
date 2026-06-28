@@ -13,7 +13,7 @@ toc-location: left
 ```{=html}
 <style>
   h2, h3, h4, h5, h6 {
-    text-transform: lowercase;
+ /*  text-transform: lowercase;
   }
   .sidebar {
     text-transform: lowercase;
@@ -28,7 +28,7 @@ toc-location: left
 __2019__: Ph.D. Development and Agricultural Economics, University of Nottingham, UK
 <!--<br>*Committee:* [Oliver Morrissey](https://www.nottingham.ac.uk/economics/people/oliver.morrissey), [Simon Appleton](https://www.nottingham.ac.uk/economics/people/simon.appleton) -->
 
-__2011__: M.S. Agricultural Economics, Purdue University, IN, USA
+__2011__: M.S. Agricultural Economics, Purdue University, USA
 
 __2005__: B.S. Agronomy and Soil Sciences, Kabul University, Afghanistan
 
@@ -37,25 +37,26 @@ __Primary Research Interests__: Agricultural & Food Policy • Climate Change, A
 
 ## Academic and Research Appointments
 
-__06/2022–06/2025__: Research Fellow, [Center for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), University of Nottingham, Nottingham, UK.
+__06/2022–06/2025__: Research Fellow, [Center for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/), University of Nottingham, Nottingham, UK.
 
 __04/2019–04/2022__: Postdoctoral Research Fellow, [International Center for Biosaline Agriculture](https://www.biosaline.org/), Dubai, UAE.
 
-__02/2012–09/2015__: Senior Economist/Head of Monitoring, Evaluation & Learning (MEL), [Department for International Development (DfID, now FCDO)](https://www.gov.uk/government/publications/evaluation-of-comprehensive-agriculture-rural-development-facility-programme), Kabul, Afghanistan.
+__02/2012–09/2015__: Senior Economist/Head of Monitoring, Evaluation & Learning (MEL), Department for International Development (DfID, now [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)), Kabul, Afghanistan.
 
 __03/2011–09/2015__: Assistant Professor (Teaching-focused, Part-time), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan.
 
 __07/2011–02/2012__: Economist and Value-Chain Development Specialist, FLAG International Afghanistan (FIA), Kabul, Afghanistan.
 
-__03/2006-10/2007__: Teaching Assistant, Department of Agronomy and Soil Sciences, Kabul University, Kabul, Afghanistan.
+__03/2006–10/2007__: Teaching Assistant, Department of Agronomy and Soil Sciences, Kabul University, Kabul, Afghanistan.
 
 ## Fellowships and Scholarly Appointments
 
-__2025–2027__: [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/), Middle East Studies Association (MESA). Awarded two-year scholarship (2025–2026), competitively renewed (2026–2027): conducting original policy-relevant research and collaborating with scholars on Middle East and North Africa issues.
+__2025–2027__: [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/), Middle East Studies Association (MESA). 
+<br>Awarded a one-year scholarship (2025–2026), competitively renewed for a second year (2026–2027); conducting original policy-relevant research and engaging with scholars on Middle East and North Africa issues.
 
 ## Publications
 
-### Peer-reviewed Journal Articals
+### Peer-reviewed Journal Articles
 
 __[Climate shocks, household food security and welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)__
 <br> Ahmadzai, H., and Morrissey, O. 2025. _Food Policy_, 134, 102910.
@@ -91,7 +92,7 @@ __[Trends in Quinoa Adoption in Marginal Areas, Economic Viability, and Policy O
 <br> Ahmadzai, H. 2020. _Journal of Agribusiness and Rural Development_, 57(3), 235–247.
 
 
-### Book chapters
+### Book Chapters
 
 __[Marginal Areas and Indigenous People Priorities for Research and Action](https://doi.org/10.1007/978-3-031-15703-5_14)__
 <br> Sayed, A., and Ahmadzai, H., et al. 2023. In _Science and Innovations for Food Systems Transformation_. Springer.
@@ -103,7 +104,7 @@ __[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-b
 <br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In _Saline Futures: State-of-the-Art in Saline Agriculture_.
 
 
-### Policy papers
+### Policy Papers
 
 __[Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)__
 <br> Ahmadzai, H., Tutundjian, S., et al. 2022. _SOLAW21 Technical Background Report_, FAO.
@@ -117,7 +118,7 @@ __[Marginal Areas and Indigenous People: Priorities for Research and Action](htt
 __Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing) and [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)) and Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)) and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective__
 <br> Ahmadzai, H. 2022. _FAO and ICBA_.
 
-### Working papers
+### Working Papers
 
 __Security, Infrastructure, and Gender Gap in Rural Labor Markets: Evidence from Afghanistan's Repeated Cross-Sectional Survey__
 <br> Ahmadzai, H.
@@ -171,7 +172,7 @@ __STAT 218: Introduction to Statistics__
 
 ## Research Grants and Projects
 
-__2022__: [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/), Institute of International Education (IIE). __Principal Investigator__. $100,000.
+__2022–2024__: [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/), Institute of International Education (IIE), and [Cara (the Council for At-Risk Academics)](https://www.cara.ngo/). £86,000.
 
 __2021__: [Catalyzing Investments and Actions to Enhance Resilience Against Sand and Dust Storms in Agriculture](https://www.fao.org/land-water/land/sds/en/), Food and Agriculture Organization of the United Nations (FAO). __Principal Investigator__. $150,000.
 
@@ -291,7 +292,7 @@ __2007__: Graduate Scholarship Award, Purdue University and USAID-funded Afghan 
 
 ## Service and Professional Activities
 
-__2019–present__: External Research Affiliate, Centre for Research in Economic Development and International Trade (CREDIT), University of Nottingham, UK.
+__2019–present__: [External Research Fellow](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), Centre for Research in Economic Development and International Trade (CREDIT), University of Nottingham, UK.
 
 __2019–present__: Member, Agribusiness Sub-network, Association of Agricultural Research Institutions in the Near East and North Africa (AARINENA).
 
@@ -311,13 +312,13 @@ __2020__: [“ICBA's Quinoa Varieties Show Promise in Morocco.”](https://www.b
 
 ## Professional Development
 
-2020 Responsible Conduct in Research: Research, Ethics, and Compliance. [Collaborative Institutional Training Initiative (CITI)](https://about.citiprogram.org/course/responsible-conduct-of-research-refresher/). Completed online, March 24–April 4.
+__2020__ Responsible Conduct in Research: Research, Ethics, and Compliance. [Collaborative Institutional Training Initiative (CITI)](https://about.citiprogram.org/course/responsible-conduct-of-research-refresher/). Completed online, March 24–April 4.
 
-2013 Leadership and Governance of Development Programs and Projects. [Crown Agents International](https://www.crownagents.com/training/our-training-subjects/leadership/). Dubai, United Arab Emirates, November 11–15.
+__2013__ Leadership and Governance of Development Programs and Projects. [Crown Agents International](https://www.linkedin.com/company/crown-agents). Dubai, United Arab Emirates, November 11–15.
 
-2012 Management of Agriculture and Rural Development Projects. [Asian Institute of Technology (AIT)](https://extension.ait.ac.th/upcoming). Bangkok, Thailand, November 21–December 1.
+__2012__ Management of Agriculture and Rural Development Projects. [Asian Institute of Technology (AIT)](https://extension.ait.ac.th/). Bangkok, Thailand, November 21–December 1.
 
-2008 Academic English and Cross-Cultural Training Program. [International Centre for Intercultural Communication (ICIC)](https://extension.ait.ac.th/upcoming). IUPUI, Indianapolis, IN, USA, October 29, 2007–May 30, 2008.
+__2008__ Academic English and Cross-Cultural Training Program. [International Centre for Intercultural Communication (ICIC)](https://archives.indianapolis.iu.edu/communities/8b5d9309-eacf-4381-81b4-ffabbab0f57d). IUPUI, Indianapolis, IN, USA, October 29, 2007–May 30, 2008.
 
 
 ## Skills 

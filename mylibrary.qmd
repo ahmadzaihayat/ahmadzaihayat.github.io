@@ -4,125 +4,34 @@ toc: false
 page-layout: full
 ---
 
--->
-<!--
-[AERE\@OSWEET]{style="font-size: calc(1.325rem + 0.9vw); color: black !important; font-weight: 600;"}
-<br>
-*the Online Summer Workshop in Environment, Energy, and Transportation (Economics)*
 
-<center>
-<p>
-  <table style="width:73%">
-    <tr>
-      <th> </th>
-      <th> </th>
-    </tr>
-    <tr valign="top">
-      <td>
-        <font color="#663399"><i>What?</i></font> &nbsp; &nbsp;
-      </td>
-      <td>
-        One Friday each month, we will host an online seminar series with three short presentations (15 minutes each)—followed by a happy (half) hour! <br><br> 
-        Papers and videos **will not** be circulated. <br><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <font color="#663399"><i>Who?</i></font> &nbsp; &nbsp;
-      </td>
-      <td>
-        For presenters, we're targeting graduate students, postdocs, and early-career assistant professors.<br>We may adjust selection based upon supply. <br><br> 
-        There will be no discussants, but we will provide a time for questions after each paper. We will try and cluster papers by topic. <br><br>
-        The organizers of **AERE\@OSWEET** include <a href="https://www.xinming-du.com/" style="text-decoration:none">Xinming Du</a> (NUS); <a href="https://www.emilypakhtigian.com/" style="text-decoration:none">Emily L. Pakhtigian</a> (Penn State); <a href="htts://edrub.in" style="text-decoration:none">Ed Rubin</a> (Oregon); <a href="https://www.krhwagner.com/" style="text-decoration: none">Katherine Wagner</a> (UBC). <br><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <font color="#663399"><i>When?</i></font> &nbsp; &nbsp;
-      </td>
-      <td>
-         Friday; see schedule below. <br><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <font color="#663399"><i>Where?</i></font> &nbsp; &nbsp; &nbsp; &nbsp;
-      </td>
-      <td>
-        Zoom. We will send out a Zoom link to presenters and audience members. <br> [Register to receive emails here](https://docs.google.com/forms/d/e/1FAIpQLSdgzM-ELbZltycbJHmtZi3pG_gl0k6_8Q2ndOUOxh6dX13xsQ/viewform). <br><br>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <font color="#663399"><i>More?</i></font> &nbsp; &nbsp; &nbsp; &nbsp;
-      </td>
-      <td>
-        This workshop is a supportive and constructive environment to present research (but you still have to bring your own beer/coffee/snacks to happy hour). <br><br>
-      </td>
-    </tr>
-  </table>
-</p>
-</center>
+## [My Library & Resources]{style="font-size: 0.75em; color: #3d4f63; font-weight: 400;"}
 
-**Interested?** [Please join the mailing list and/or apply to present!](https://docs.google.com/forms/d/e/1FAIpQLSdgzM-ELbZltycbJHmtZi3pG_gl0k6_8Q2ndOUOxh6dX13xsQ/viewform) (And tell your friends.)
-
-<br>
-
-
-## Upcoming session
-
-### **Climate ** 2026/05/08
-
-<b>Friday, 08 May 2026</b>, 11AM-12PM <b>Pacific</b> (2PM–3PM <b>Eastern</b>), followed by happy half-hour
-
-<p>
-  [Register for **Zoom link here**](https://uoregon.zoom.us/meeting/register/-K1crHjKQ6m3vtQ0EkEp_A).
-  <br>
-  [Join the mailing list or submit a talk](https://docs.google.com/forms/d/e/1FAIpQLSdgzM-ELbZltycbJHmtZi3pG_gl0k6_8Q2ndOUOxh6dX13xsQ/viewform).
-</p>
-
-::: {.grid style="--bs-columns: 10; row-gap: 0;"}
-
-::: {.g-col-3 .g-col-md-2}
-11:00AM PT<br>(2:00PM ET)
-:::
-::: {.g-col-7 .g-col-md-8}
-<i>Barriers within borders: Climate change, market barriers, and structural transformation</i>
-<br><b>Rimjhim Saxena</b> (Geneva)
-:::
-::: {.g-col-3 .g-col-md-2}
-11:20AM PT<br>(2:20PM ET)
-:::
-::: {.g-col-7 .g-col-md-8}
-<i>Adaptation in motion: Temporary migration under heat stress</i>
-<br><b>Moumita Das</b> (UC Santa Cruz)
-:::
-::: {.g-col-3 .g-col-md-2}
-11:40AM PT<br>(2:40PM ET)
-:::
-::: {.g-col-7 .g-col-md-8}
-<i>The dual burden of energy poverty and climate exposure</i>
-<br><b>Yuetong Zhang</b> (UNC)
-:::
-::: {.g-col-3 .g-col-md-2}
-12:00PM PT<br>(3:00PM ET)
-:::
-::: {.g-col-7 .g-col-md-8}
-<i>Happy half-hour</i>
-:::
-
-:::
--->
-
-## My Library & Resources
+A curated collection of online resources in applied econometrics, impact evaluation, development economics, and agricultural and climate policy.
 
 ::: {.panel-tabset}
 
-### Online Resources 
+### Econometrics & Impact Evaluation 
 
-::: {.panel-tabset}
-
-### **Impact Evaluation**
+[Econometric Academy](https://sites.google.com/site/econometricsacademy/home), free courses and tutorials on econometrics using Stata and R</i>
+<br><br>
+[One-Stop Shop for Methodology](https://blogs.worldbank.org/en/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology-0?CID=WBW_AL_BlogNotification_EN_EXT), World Bank's Development Impact</i>
+<br><br>
+[Measurement and Survey Design](https://blogs.worldbank.org/en/impactevaluations/curated-list-our-postings-measurement-and-survey-design), World Bank's Development Impact</i>
+<br><br>
+[Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)</i>
+<br><br>
+[Econometrics with Python](https://datascience.quantecon.org/) and [Computational Economics with Python](https://juejung.github.io/jdocs/Comp/html/index.html)</i> 
+<br><br>
+[Data Science Tools](https://datascience.quantecon.org/tools/index.html) </i>
+<br><br>
+[Open Courseware](https://ocw.mit.edu/search/?t=Economics), MIT Economics </i>
+<br><br>
+[EGAP Methods Hub](https://methods.egap.org/)</i>
+<br><br>
+[Causal Inference: The Mixtape](https://mixtape.scunning.com/) (Scott Cunningham)</i>
+<br><br>
+[The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) (Nick Huntington-Klein)</i>
 
 Handbook on Impact Evaluation Quantitative Methods and Practices, [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org/entities/publication/f89faa3e-3aba-5b06-ab9c-5fc4dce9be59) </i>
 <br><br>
@@ -135,6 +44,99 @@ Impact Evaluation in Practice, Second Edition, [World Bank Open Knowledge Reposi
 [Impact Evaluation in Practice - Second Edition](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice), World Bank Group </i>
 <br><br>
 [BetterEvaluation Rainbow Framework](https://www.betterevaluation.org/frameworks-guides/rainbow-framework), evaluation methods/approaches</i>
+
+### Agriculture, Climate, & Food Systems
+
+Sustainable Development: [The 17 Goals](https://sdgs.un.org/goals). United Nation's Department of Economic and Social Affairs</i>
+<br><br>
+Online [Courses](https://elearning.fao.org/local/search/?) on Gender, Food Security, climate smart agriculture, market and livelihood assessments, resilience in food security systems, migration, rural development, digital agriculture, introduction to Sustainable Development Goals (SDGs), and more. FAO elearning Academy, Food and Agriculture Organization of the United Nations</i>
+<br><br>
+Donut Economics: [Seven Ways to Think Like a 21st-Century Economist](https://www.kateraworth.com/) by - Kate Raworth</i>
+
+### Data
+
+[Data for Development](https://sites.google.com/site/medevecon/devecondata/micro), online links to a variety of [micro](https://sites.google.com/site/medevecon/devecondata/micro) and [macro](https://sites.google.com/site/medevecon/devecondata/macro) datasets for empirical development economists, by Professor Markus Eberhardt (UoN)</i>
+<br><br>
+[Data Resources and important Databases for Economists](https://sites.google.com/site/canhthiendang/database), compiled by Canh Dang Thein (King's College London) </i>
+<br><br>
+[World Bank Microdata Library](https://microdata.worldbank.org/home)</i>
+<br><br>
+[IFPRI HarvestChoice / CELL5M](https://dataverse.harvard.edu/dataverse/harvestchoice)</i>
+<br><br>
+[Ag Data](https://www.aaronsmithagecon.com/ag-data), by Aaron Smith (UC Berkeley)</i>
+<br><br>
+[UC Berkeley ARE Library — Data Sources](https://guides.lib.berkeley.edu/ARE/finddata)</i>
+<br><br>
+[University of Tennessee Knoxville — Online & Data Resources for Ag & Resource Econ](https://libguides.utk.edu/arec/data)</i>
+
+### US Agriculture & Climate
+
+**Foundational US Agricultural Data**
+
+[USDA NASS Quick Stats API](https://quickstats.nass.usda.gov/api), county/state/national crop yields, acreage, and prices, with R/Python wrappers (`rnassqs`, `tidyUSDA`)</i>
+<br><br>
+[Census of Agriculture](https://www.nass.usda.gov/Publications/AgCensus/2022/index.php), full agricultural census every 5 years, national/state/county tables back to 1997</i>
+<br><br>
+[NASS Special Tabulations & Restricted-Use Microdata](https://www.nass.usda.gov/Data_and_Statistics/), farm-level (not just county) microdata access for qualified researchers</i>
+<br><br>
+[USDA ERS Data Products](https://www.ers.usda.gov/data-products), Commodity Costs & Returns, ARMS farm survey, Farm Income & Wealth Statistics</i>
+<br><br>
+[ARMS (Agricultural Resource Management Survey)](https://www.ers.usda.gov/data-products/arms-farm-financial-and-crop-production-practices), USDA's flagship farm-level survey on finances, practices, and technology adoption</i>
+
+**Crop & Land Use Geospatial Data**
+
+[USDA Cropland Data Layer (CDL)](https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php), annual satellite-derived crop-specific land cover, continental US since 2008, 10m resolution</i>
+<br><br>
+[CDL via Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/USDA_NASS_CDL), same dataset, queryable directly without downloading rasters</i>
+<br><br>
+[CroplandCROS](https://croplandcros.scinet.usda.gov/), interactive viewer for CDL plus crop frequency and cultivated-land layers</i>
+
+**Climate & Weather Data**
+
+[gridMET (Climatology Lab, U. Idaho)](https://www.climatologylab.org/gridmet.html), daily 4km-resolution US weather data since 1979 (temp, precip, humidity, wind)</i>
+<br><br>
+[PRISM Climate Group](https://prism.oregonstate.edu), foundational 4km gridded weather dataset since ~1895</i>
+<br><br>
+[MACA Downscaled Climate Projections](https://climate.northwestknowledge.net/MACA/index.php), bias-corrected CMIP5 projections at 4km resolution for climate-adaptation research</i>
+<br><br>
+[Agro-Climatic Data by County (ACDC)](https://mdpi.com/2306-5729/4/2/66/htm), ready-to-use county panel combining NASS yields with PRISM-derived growing degree days and precipitation</i>
+
+**Climate Risk & Resilience**
+
+[USDA RMA Summary of Business / Cause of Loss Data](https://www.rma.usda.gov/tools-reports/summary-of-business/state-county-crop-summary-business), county-crop-level crop insurance participation, premiums, and indemnities by cause of loss</i>
+<br><br>
+[NOAA NCEI Storm Events Database](https://www.ncdc.noaa.gov/stormevents), county-level US storm/disaster data with damage estimates since 1950</i>
+<br><br>
+[EM-DAT](https://public.emdat.be), global disaster database (registration required)</i>
+
+**Curated by Other Researchers**
+
+[Ag Data (Aaron Smith, UC Berkeley)](https://www.aaronsmithagecon.com/ag-data), curated ag/natural-resource data links plus R code and interactive apps for NASS, RMA data</i>
+<br><br>
+[Ag Data News (Aaron Smith)](https://agdatanews.substack.com/), weekly short data-driven posts on ag-econ questions, often with R code</i>
+<br><br>
+[Data Sources and Links (Wolfram Schlenker, Harvard Kennedy School)](https://wolfram-schlenker.info/links.html), raw weather data and Stata code for constructing balanced-panel daily weather data from PRISM</i>
+<br><br>
+[A Collection of Climate, Air Pollution, Disaster, and Nature Resources Data (Yabin Da)](https://www.yabin-da.com/data/a-collection-of-climate-weather-data-for-the-us-and-the-world/), curated US/global climate datasets annotated with the economics papers that used each one</i>
+
+:::
+
+
+
+
+
+
+
+
+
+::: {.hidden}
+
+
+::: {.panel-tabset}
+
+### Online Resources 
+
+::: {.panel-tabset}
 
 ### **Econometrics**
 
@@ -158,7 +160,22 @@ Impact Evaluation in Practice, Second Edition, [World Bank Open Knowledge Reposi
 <br><br>
 [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) (Nick Huntington-Klein)</i> 
 
-### **Development**
+### **Impact Evaluation**
+
+Handbook on Impact Evaluation Quantitative Methods and Practices, [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org/entities/publication/f89faa3e-3aba-5b06-ab9c-5fc4dce9be59) </i>
+<br><br>
+Impact Evaluation in Practice, Second Edition, [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org/server/api/core/bitstreams/4659ef23-61ff-5df7-9b4e-89fda12b074d/content) </i>
+<br><br>
+[Impact Evaluation - An Overview](https://www.slideserve.com/nay/impact-evaluation-powerpoint-ppt-presentation), Lori Beaman, Development Economist at Northwestern University </i>
+<br><br>
+[Impact Evaluation Helps Deliver Development Projects](https://openknowledge.worldbank.org/entities/publication/36fed8e6-a915-5467-bb6f-3c7ffb065623), World Bank Group Policy Research Working Paper</i>
+<br><br>
+[Impact Evaluation in Practice - Second Edition](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice), World Bank Group </i>
+<br><br>
+[BetterEvaluation Rainbow Framework](https://www.betterevaluation.org/frameworks-guides/rainbow-framework), evaluation methods/approaches</i>
+
+
+### **Agriculture, Climate, & Food Systems**
 
 Sustainable Development: [The 17 Goals](https://sdgs.un.org/goals). United Nation's Department of Economic and Social Affairs</i>
 <br><br>
@@ -235,6 +252,7 @@ Donut Economics: [Seven Ways to Think Like a 21st-Century Economist](https://www
 [A Collection of Climate, Air Pollution, Disaster, and Nature Resources Data (Yabin Da)](https://www.yabin-da.com/data/a-collection-of-climate-weather-data-for-the-us-and-the-world/), curated US/global climate datasets annotated with the economics papers that used each one</i>
 
 :::
+
 
 ### Presentations/Conferences
 

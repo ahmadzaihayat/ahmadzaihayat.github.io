@@ -1,10 +1,12 @@
 ---
-title: "bio"
+title: "About me"
 toc: false
 lightbox: true
 ---
+
 <!-- 
-### about me
+### [About me]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
+
 
 I'm an environmental economist who researches how human behavior (individual and policy) affects social equity and the health of the natural world.
 
@@ -19,7 +21,7 @@ Examples from a few recent projects…
 <br>↳ [*strategic location of coal-fueled power plants*](Papers/draft-plant-locations.pdf). -->
 
 
-I am an agricultural economist studying how agricultural and food policies, climate, and market conditions shape the welfare of farm households and rural communities. My research applies econometric methods for causal inference and impact evaluation, drawing on panel data, administrative records, household surveys, climate data, and field experiments. As an applied economist, my work draws on tools from econometrics, statistics, and data science to answer policy- and program-relevant questions.
+I am an agricultural economist studying how agricultural and food policies, climate, and market conditions shape the welfare and resilience of farm households and rural communities. My research applies econometric methods for causal inference and impact evaluation, drawing on panel data, administrative records, household surveys, climate data, and field experiments. As an applied economist, my work draws on tools from econometrics, statistics, and data science to answer policy- and program-relevant questions.
 
 I hold a PhD in [Economics](https://www.nottingham.ac.uk/economics/), with a focus on development and agricultural economics, from the [University of Nottingham](https://www.nottingham.ac.uk/), and an MS in [Agricultural and Applied Economics](https://ag.purdue.edu/department/agecon/) from [Purdue University](https://www.purdue.edu/). My research has appeared in *Food Policy*, *The Journal of Development Studies*, *PLOS ONE*, and other peer-reviewed journals, and I have presented my work at conferences and workshops including an invited talk at Stanford University.
 
@@ -27,11 +29,9 @@ I am currently an external research fellow at the [Centre for Research in Econom
 
 I am looking for opportunities at universities, think tanks, and research and policy institutions working on agricultural and food policy, climate resilience, and rural economic outcomes.
 
-### Contact
+### [Contact]{style="font-size: 0.60em; color: #3d4f63; font-weight: 500;"}
 
-ahmadzaihayat@outlook.com 
-<br>
-Durham, North Carolina, USA
+Email: ahmadzaihayat@outlook.com 
 <br> 
 [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat)
 <!--
@@ -39,7 +39,7 @@ Durham, North Carolina, USA
 -->
 
 <!--
-### me
+### me 
 
 *Passions:* [the](Gallery/20250101-IMG_4248.jpg){.lightbox} [ou](Gallery/20250215-IMG_5072){.lightbox}t[do](Gallery/20250827-IMG_0238.jpg){.lightbox}o[rs](Gallery/20240629-IMG_8522_jpg.jpg){.lightbox}, [bikes](Gallery/20241221-IMG_3497_jpg.jpg){.lightbox}, [good](Gallery/20241227-IMG_4034_jpg.jpg){.lightbox} [food](Gallery/20251102-IMG_0950.jpg){.lightbox}/[coffee](Gallery/20250731-IMG_9226.jpg){.lightbox}/[drink](Gallery/20250307-IMG_5581.jpg){.lightbox}[s](Gallery/20250328-IMG_6463.jpg){.lightbox}, [road](Gallery/20250628-IMG_7806.jpg){.lightbox} [trips](Gallery/20250628-IMG_7797.jpg){.lightbox} [beauty](Gallery/20250629-IMG_7900.jpg){.lightbox}/[photography](photos.html), data, and (most of all) [loving](Gallery/20240806-IMG_0409_jpg.jpg){.lightbox} [people](Gallery/20250726-IMG_9131.jpg){.lightbox}.
 

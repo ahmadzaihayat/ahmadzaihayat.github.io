@@ -1,11 +1,14 @@
 ---
-title: "research"
+title: "Research"
 toc: true
 toc-location: left
 lightbox: true
 ---
 
 <!--
+## [Research]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
+
+
 Abstracts and selected figures from published/accepted papers, working drafts, and in-progress projects...
 -->
 
@@ -218,7 +221,7 @@ knitr::include_graphics(c(
 
 ## Other Publications
 
-### Peer-Reviewed Journal Articles
+### [Peer-Reviewed Journal Articles]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
 
 [The Impact of Sand and Dust Storms on Agricultural Productivity in Iraq](https://doi.org/10.1080/17938120.2023.2166748)
 <br> Ahmadzai, H. 2023. *Middle East Development Journal* 15(1): 50–65. [DOI: 10.1080/17938120.2023.2166748](https://doi.org/10.1080/17938120.2023.2166748)
@@ -238,7 +241,7 @@ knitr::include_graphics(c(
 [Trends in Quinoa Adoption in Marginal Areas, Economic Viability, and Policy Outlook](https://doi.org/10.17306/J.JARD.2020.01351)
 <br> Ahmadzai, H. 2020. *Journal of Agribusiness and Rural Development* 57(3): 235–247. [DOI: 10.17306/J.JARD.2020.01351](https://doi.org/10.17306/J.JARD.2020.01351)
 
-### Book Chapters
+### [Book Chapters]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
 
 [Marginal Areas and Indigenous People: Priorities for Research and Action](https://doi.org/10.1007/978-3-031-15703-5_14)
 <br> Sayed, A., and Ahmadzai, H., et al. 2023. In *Science and Innovations for Food Systems Transformation*, edited by von Braun, J., et al., pp. 261–279. Springer International Publishing. [DOI: 10.1007/978-3-031-15703-5_14](https://doi.org/10.1007/978-3-031-15703-5_14)
@@ -249,7 +252,7 @@ knitr::include_graphics(c(
 [From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-Based Food Products in the UAE](https://doi.org/10.1201/9781003112327-11)
 <br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In *Future of Sustainable Agriculture in Saline Environments*, edited by Negacz, K., et al., pp. 181–199. CRC Press/Taylor & Francis Group. [DOI: 10.1201/9781003112327-11](https://doi.org/10.1201/9781003112327-11)
 
-### Policy Reports and Papers
+### [Policy Reports and Papers]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
 
 [Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)
 <br> Ahmadzai, H., Tutundjian, S., et al. 2022. Rome: FAO. [DOI: 10.4060/cc2838en](https://doi.org/10.4060/cc2838en)
@@ -263,7 +266,7 @@ knitr::include_graphics(c(
 Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing) and [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)) and Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)) and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective
 <br> Ahmadzai, H. 2021. FAO and International Center for Biosaline Agriculture (ICBA).
 
-### Working Papers
+### [Working Papers]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
 
 Security, Infrastructure, and the Gender Gap in Rural Labor Markets: Evidence from Afghanistan's Repeated Cross-Sectional Surveys
 <br> Ahmadzai, H. *CREDIT Research Paper. In progress.*

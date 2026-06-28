@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: "."
 website:
-  title: "H.Ahmadzai | Economist"
+  title: "H.Ahmadzai | Agricultural Economist"
   site-url: "https://ahmadzaihayat.github.io"
   favicon: images/yellow-duck-512.png
   navbar:
@@ -23,8 +23,10 @@ website:
             text: teaching
           - href: "https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en"
             text: google scholar
-          - href: "https://www.researchgate.net/profile/Hayatullah_Ahmadzai"
-            text: researchgate
+          - href: "https://orcid.org/0000-0001-9766-7052i"
+            text: orcid
+         #   - href: "https://www.researchgate.net/profile/Hayatullah_Ahmadzai"
+          #    text: researchgate
           - href: "https://www.linkedin.com/in/ahmadzaihayat"
             text: linkedin
           # - href: https://tweeds.io

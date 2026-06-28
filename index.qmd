@@ -21,10 +21,11 @@ lightbox: true
 
 <!-- I'm [Ed Rubin](bio.html), an associate professor in the [Department of Economics](https://economics.uoregon.edu) at the [University of Oregon](https://www.uoregon.edu). -->
 
-[Hayatullah Ahmadzai]{style="font-size: 1.8em; color: #34495E; font-weight: 600;"}
+[Hayatullah Ahmadzai]{style="font-size: 1.8em; color: #34495E; font-weight: 500;"}
 <br>
 [Agricultural Economist]{style="color: #3d4f63; font-weight: 500;"}
-
+<br>
+Durham, NC, USA 
 
 <!--
 Academic CV Color Palette (saved options)
@@ -38,15 +39,26 @@ Academic CV Color Palette (saved options)
 #163729  - Forest Academic Green (your LaTeX-style deep green)
 -->
 
+<!--
+My research investigates how climate shocks, agricultural and food policy, and market conditions affect farm and rural household outcomes and resilience in fragile and resource-constrained settings, including developing-country contexts, using applied econometrics, causal inference, and impact evaluation methods to support evidence-based policy and program design.
+-->
 
-My research investigates how climate shocks, agricultural and food policy, and market conditions affect farm and rural household outcomes and resilience, using applied econometrics, causal inference, and impact evaluation methods to support evidence-based policy and program design.
+My research investigates how climate shocks, agricultural and food policy, and market conditions affect farm and rural household outcomes and resilience. Drawing on methods from applied econometrics, causal inference, impact evaluation, and data science, I produce empirical evidence to inform policy, program design, and implementation, with much of my work focusing on fragile and resource-constrained contexts.
+
+### [Recent Work]{style="font-size: 0.65em; color: #3d4f63; font-weight: 500;"}
+
+**[Climate Shocks, Household Food Security and Welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)**
+<br>Ahmadzai, H., and Morrissey, O. *Food Policy*, 2025. Also presented at [Stanford University, April 2026](https://events.stanford.edu/event/climate-shocks).
+
+**[Crop Diversification and Farm Household Welfare during Conflict: Afghanistan 2011–2017](https://doi.org/10.1080/00220388.2024.2404576)**
+<br>Ahmadzai, H., and Morrissey, O. *The Journal of Development Studies*, 2025, 61(3), 381–399.
 
 
-###  [Research Interests]{style="color: #34495E;"}: 
+### [Research Interests]{style="font-size: 0.60em; color: #3d4f63; font-weight: 500;"}
 Agricultural & Food Policy • Climate Change, Adaptation, & Agricultural Resilience • Agribusiness & Farm Economics • Food Security, Rural Livelihoods & Agrifood Systems • Applied Econometrics and Impact Evaluation
 
-Durham, NC, USA | External Research Fellow, CREDIT, University of Nottingham | MESA Global Academy Scholar (2025–2027), Middle East Studies Association. 
-Email: hayatullah.ahmadzai1@nottingham.ac.uk
+
+Affiliations: External Research Fellow, CREDIT, University of Nottingham | MESA Global Academy Scholar (2025–2027), Middle East Studies Association
 
 <!--
 ### about me
@@ -65,11 +77,9 @@ Examples from a few recent projects…
 
 
 
-### [Contact]{style="color: #34495E;"}
+### [Contact]{style="font-size: 0.60em; color: #3d4f63; font-weight: 500;"}
 
-ahmadzaihayat@outlook.com 
-<br>
-Durham, North Carolina, USA
+Email: ahmadzaihayat@outlook.com 
 <br> 
 [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat)
 
