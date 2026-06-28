@@ -1,0 +1,50 @@
+{
+  "teaching.qmd": {
+    "teaching.html": "16e43d87"
+  },
+  "research.qmd": {
+    "research.html": "eaabd702"
+  },
+  "cv-pdf-header.qmd": {
+    "cv-pdf-header.typ": "87e5e538"
+  },
+  "index.qmd": {
+    "index.html": "ee94afbe"
+  },
+  "cv.qmd": {
+    "cv.html": "2c29fed5"
+  },
+  "mylibrary.qmd": {
+    "mylibrary.html": "4e6b314d"
+  },
+  "bio.qmd": {
+    "bio.html": "8a09ddfa"
+  },
+  "tmp.qmd": {
+    "tmp.typ": "4cb6158c"
+  },
+  "ahmadzaihayat.github.io/teaching.qmd": {
+    "teaching.html": "c1050b14"
+  },
+  "ahmadzaihayat.github.io/research.qmd": {
+    "research.html": "71a4b097"
+  },
+  "ahmadzaihayat.github.io/cv-pdf-header.qmd": {
+    "cv-pdf-header.typ": "dd4d143e"
+  },
+  "ahmadzaihayat.github.io/index.qmd": {
+    "index.html": "0ebc845b"
+  },
+  "ahmadzaihayat.github.io/cv.qmd": {
+    "cv.html": "4d28a43f"
+  },
+  "ahmadzaihayat.github.io/mylibrary.qmd": {
+    "mylibrary.html": "d0910e10"
+  },
+  "ahmadzaihayat.github.io/bio.qmd": {
+    "bio.html": "8b7688c7"
+  },
+  "research.knit.md": {
+    "research.knit.html": "fb6cec00"
+  }
+}

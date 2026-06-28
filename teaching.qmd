@@ -1,5 +1,5 @@
 ---
-title: "teaching"
+title: "Teaching"
 toc: false
 toc-location: left
 lightbox: true
@@ -133,7 +133,7 @@ __AgEcEx735: Research Methods & Projects__
 :::
 :::
 
-## lecture notes
+## Lecture Notes
 
 __Lecture Notes: Agricultural Production Economics (AgEcEx731)__
 
