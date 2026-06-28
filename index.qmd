@@ -21,9 +21,9 @@ lightbox: true
 
 <!-- I'm [Ed Rubin](bio.html), an associate professor in the [Department of Economics](https://economics.uoregon.edu) at the [University of Oregon](https://www.uoregon.edu). -->
 
-[Hayatullah Ahmadzai]{style="font-size: 1.8em; color: #34495E; font-weight: 500;"}
+[Hayatullah Ahmadzai]{style="font-size: 1.8em; color: #34495E; font-weight: 600;"}
 <br>
-[Agricultural Economist]{style="color: #3d4f63; font-weight: 500;"}
+[Agricultural Economist]{style="color: #3d4f63; font-weight: 600;"}
 <br>
 Durham, NC, USA 
 
@@ -45,7 +45,7 @@ My research investigates how climate shocks, agricultural and food policy, and m
 
 My research investigates how climate shocks, agricultural and food policy, and market conditions affect farm and rural household outcomes and resilience. Drawing on methods from applied econometrics, causal inference, impact evaluation, and data science, I produce empirical evidence to inform policy, program design, and implementation, with much of my work focusing on fragile and resource-constrained contexts.
 
-### [Recent Work]{style="font-size: 0.65em; color: #3d4f63; font-weight: 500;"}
+### Recent Work
 
 **[Climate Shocks, Household Food Security and Welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)**
 <br>Ahmadzai, H., and Morrissey, O. *Food Policy*, 2025. Also presented at [Stanford University, April 2026](https://events.stanford.edu/event/climate-shocks).
@@ -54,7 +54,7 @@ My research investigates how climate shocks, agricultural and food policy, and m
 <br>Ahmadzai, H., and Morrissey, O. *The Journal of Development Studies*, 2025, 61(3), 381–399.
 
 
-### [Research Interests]{style="font-size: 0.60em; color: #3d4f63; font-weight: 500;"}
+### Research Interests
 Agricultural & Food Policy • Climate Change, Adaptation, & Agricultural Resilience • Agribusiness & Farm Economics • Food Security, Rural Livelihoods & Agrifood Systems • Applied Econometrics and Impact Evaluation
 
 
@@ -77,7 +77,7 @@ Examples from a few recent projects…
 
 
 
-### [Contact]{style="font-size: 0.60em; color: #3d4f63; font-weight: 500;"}
+### Contact
 
 Email: ahmadzaihayat@outlook.com 
 <br> 
