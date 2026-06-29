@@ -17,6 +17,8 @@ The full list of publications is available in my [[web CV](cv.html) | [PDF CV](c
 
 ## Selected Papers
 
+*\* Abstracts and figures are reproduced from the corresponding published papers or preprints, as indicated.*
+
 [[Climate shocks, household food security and welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)]{style="font-weight: 900; font-size: 12pt;"}
 <br>
 [Ahmadzai, H.](ahmadzaihayat.github.io) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *Food Policy* 134, 102910. [DOI: 10.1016/j.foodpol.2025.102910](https://doi.org/10.1016/j.foodpol.2025.102910)
