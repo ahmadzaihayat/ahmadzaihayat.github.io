@@ -79,7 +79,7 @@ We use three waves (2011–2012 to 2016–2017) of nationally representative rep
 knitr::include_graphics(c(
   "Figures/Diversification/outcome_ncrop.png",
   "Figures/Diversification/biviodiv.png",
-  "Figures/Diversification/bideathvio.png",
+  "Figures/Diversification/bideathvio.jpg",
   NULL
 ))
 ```
@@ -267,6 +267,9 @@ knitr::include_graphics(c(
 
 Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing) and [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)) and Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)) and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective
 <br> Ahmadzai, H. 2021. FAO and International Center for Biosaline Agriculture (ICBA).
+
+[Baseline Survey Report](https://resade.biosaline.org/sites/default/files/2025-04/baseline-survey-report-resade_first-hubs-communities.pdf): Improving Agricultural Resilience to Salinity ([RESADE](https://resade.biosaline.org/about))
+<br> Ahmadzai, H. 2020. International Center for Biosaline Agriculture (ICBA), IFAD, BADEA.
 
 ### [Working Papers]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
 

@@ -104,7 +104,7 @@ __[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-b
 <br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In _Saline Futures: State-of-the-Art in Saline Agriculture_.
 
 
-### Policy Papers
+### Policy Papers & Technical Reports 
 
 __[Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)__
 <br> Ahmadzai, H., Tutundjian, S., et al. 2022. _SOLAW21 Technical Background Report_, FAO.
@@ -117,6 +117,9 @@ __[Marginal Areas and Indigenous People: Priorities for Research and Action](htt
 
 __Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing) and [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)) and Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)) and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective__
 <br> Ahmadzai, H. 2022. _FAO and ICBA_.
+
+[Baseline Survey Report](https://resade.biosaline.org/sites/default/files/2025-04/baseline-survey-report-resade_first-hubs-communities.pdf): Improving Agricultural Resilience to Salinity ([RESADE](https://resade.biosaline.org/about))
+<br> Ahmadzai, H. 2020. International Center for Biosaline Agriculture (ICBA), IFAD, BADEA.
 
 ### Working Papers
 
@@ -294,7 +297,7 @@ __2007__: Graduate Scholarship Award, Purdue University and USAID-funded Afghan 
 
 __2019–present__: [External Research Fellow](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), Centre for Research in Economic Development and International Trade (CREDIT), University of Nottingham, UK.
 
-__2019–present__: Member, Agribusiness Sub-network, Association of Agricultural Research Institutions in the Near East and North Africa (AARINENA).
+__2019–present__: Member, Agribusiness Sub-network, Association of Agricultural Research Institutions in the Near East and North Africa ([AARINENA](https://aarinena.org/agribusiness-sub-networks-team/)).
 
 __2019–present__: Peer Reviewer for _The Journal of Development Studies_; _Food Policy_; _Sustainability_ (MDPI); _PLOS ONE_; _Review of Development Economics_; _Humanities and Social Sciences Communications_; _Agriculture_ (MDPI); _Cogent Economics and Finance_; _Journal of Social and Economic Development_.
 
