@@ -24,19 +24,23 @@ format:
 ---
 
 ```{=typst}
-#v(-3em)
+#v(-0.25em)
 ```
 
 :::{style="font-family: 'PT Mono'; font-size: 15pt;"}
 [**Hayatullah Ahmadzai**]{style="color: #34495E;"}
 :::
+
 ```{=typst}
 #v(0.25em)
 ```
-:::{style="font-family: 'PT Mono'; font-size: 9.5pt;"}
-[Durham, NC | Open to Relocation\
-[ahmadzaihayat@outlook.com](mailto:ahmadzaihayat@outlook.com) | +1 919-408-6341 | [Website](https://ahmadzaihayat.github.io) | [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en)]{style="color: #163729;"}
+
+:::{style="font-family: 'PT Mono'; font-size: 9.5pt; color: #163729;"}
+Durham, NC | Open to Relocation\
+[ahmadzaihayat@outlook.com](mailto:ahmadzaihayat@outlook.com) | +1 919-408-6341 | [Website](https://ahmadzaihayat.github.io) | [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en)
 :::
+
+
 <!--
 Academic CV Color Palette (saved options)
 
@@ -48,4 +52,4 @@ Academic CV Color Palette (saved options)
 #4CAF50  - Template Green (original default, tech/web feel)
 #163729  - Forest Academic Green (your LaTeX-style deep green)
 -->
-:::
+
