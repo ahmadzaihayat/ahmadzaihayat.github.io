@@ -25,7 +25,7 @@ toc-location: left
 
 ## Education
 
-__2015–2019__: Ph.D. Development and Agricultural Economics, University of Nottingham, UK
+__2015–2019__: Ph.D. in Economics (focus: Agricultural and Development Economics), University of Nottingham, UK
 <!--<br>*Committee:* [Oliver Morrissey](https://www.nottingham.ac.uk/economics/people/oliver.morrissey), [Simon Appleton](https://www.nottingham.ac.uk/economics/people/simon.appleton) -->
 
 __2008–2011__: M.S. Agricultural Economics, Purdue University, USA
@@ -187,7 +187,9 @@ __2021__: [Developing National Policy to Utilize Treated Sewage Effluent (TSE) a
 
 __2020__: [Adoption and Impact of Quinoa Among Farmers in Marginal Areas of the MENA Region](https://www.biosaline.org/projects/quinoa-marginal-environments-phase-i), International Center for Biosaline Agriculture (ICBA). __Principal Investigator__. $68,488.
 
-__2019__: [Improving Agricultural Resilience to Salinity and Climate Change through Development of Pro-Poor Technologies and Management Strategies (RESADE)](https://www.biosaline.org/projects/improving-agricultural-resilience-salinity-and-climate-change-through-development-and), IFAD and BADEA. __Co-Principal Investigator__ with Dr. R.K. Singh (ICBA). $7,000,000.
+__2020__: Resilient Agrifood Dynamism Through Evidence-Based Policies (READY). ICBA and University of Wollongong in Dubai (READY), University of Wollongong in Dubai and ICBA. __Co-Principal Investigator__ with Dr. Ioannis Manikas (University of Wollongong) and Dr. Khalil Ammar (ICBA). $1.5 millions.
+
+__2019__: [Improving Agricultural Resilience to Salinity and Climate Change through Development of Pro-Poor Technologies and Management Strategies (RESADE)](https://www.biosaline.org/projects/improving-agricultural-resilience-salinity-and-climate-change-through-development-and), IFAD and BADEA. __Co-Principal Investigator__ with Dr. R.K. Singh (ICBA). $7.7 millions.
 
 __2019__: EXPO Live Phase II: Value Chain Development for Innovative Halophyte-Based Food Systems, International Center for Biosaline Agriculture (ICBA). __Co-Principal Investigator__ with Dr. Dionysia Angeliki Lyra (ICBA). $500,000.
 

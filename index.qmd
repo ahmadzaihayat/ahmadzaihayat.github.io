@@ -42,8 +42,10 @@ Academic CV Color Palette (saved options)
 <!--
 My research investigates how climate shocks, agricultural and food policy, and market conditions affect farm and rural household outcomes and resilience in fragile and resource-constrained settings, including developing-country contexts, using applied econometrics, causal inference, and impact evaluation methods to support evidence-based policy and program design.
 -->
+<!-- 
+My research examines how policy choices, climate, and market conditions shape the welfare outcomes and resilience of farm households and rural communities. Using econometric methods for causal inference and impact evaluation, I draw on household surveys, panel data, climate data, administrative records, and field experiments. As an applied economist, I use tools from econometrics, statistics, and data science to answer real-world policy- and program-relevant questions. -->
 
-My research investigates how climate shocks, agricultural and food policy, and market conditions affect farm and rural household outcomes and resilience. Drawing on methods from applied econometrics, causal inference, impact evaluation, and data science, I produce empirical evidence to inform policy, program design, and implementation, with much of my work focusing on fragile and resource-constrained contexts.
+My research examines how policy choices, climate, and market conditions shape the welfare outcomes and resilience of farm households and rural communities. Using econometric methods for causal inference and impact evaluation, I draw on household surveys, panel data, climate data, administrative records, and field experiments to answer real-world policy- and program-relevant questions.
 
 ### Recent Work
 
@@ -55,8 +57,7 @@ My research investigates how climate shocks, agricultural and food policy, and m
 
 
 ### Research Interests
-Agricultural & Food Policy • Climate Change, Adaptation, & Agricultural Resilience • Agribusiness & Farm Economics • Food Security, Rural Livelihoods & Agrifood Systems • Applied Econometrics & Impact Evaluation
-
+Agricultural & Food Policy • Climate Change Adaptation & Agricultural Resilience • Farm Economics & Rural Livelihoods • Food Security & Agrifood Systems • Applied Econometrics & Impact Evaluation
 
 Affiliations: External Research Fellow, CREDIT, University of Nottingham | MESA Global Academy Scholar (2025–2027), Middle East Studies Association
 
