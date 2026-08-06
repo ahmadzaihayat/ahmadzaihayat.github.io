@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: "."
 website:
-  title: "H.Ahmadzai | Agricultural Economist"
+  title: "H.Ahmadzai | Agricultural & Development Economist"
   site-url: "https://ahmadzaihayat.github.io"
   favicon: images/yellow-duck-512.png
   navbar:

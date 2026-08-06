@@ -23,7 +23,7 @@ lightbox: true
 
 [Hayatullah Ahmadzai]{style="font-size: 1.8em; color: #34495E; font-weight: 600;"}
 <br>
-[Agricultural Economist]{style="color: #3d4f63; font-weight: 600;"}
+[Agricultural and Development Economist]{style="color: #3d4f63; font-weight: 600;"}
 <br>
 Durham, NC, USA 
 
@@ -45,7 +45,7 @@ My research investigates how climate shocks, agricultural and food policy, and m
 <!-- 
 My research examines how policy choices, climate, and market conditions shape the welfare outcomes and resilience of farm households and rural communities. Using econometric methods for causal inference and impact evaluation, I draw on household surveys, panel data, climate data, administrative records, and field experiments. As an applied economist, I use tools from econometrics, statistics, and data science to answer real-world policy- and program-relevant questions. -->
 
-My research examines how policy choices, climate, and market conditions shape the welfare outcomes and resilience of farm households and rural communities. Using econometric methods for causal inference and impact evaluation, I draw on household surveys, panel data, climate data, administrative records, and field experiments to answer real-world policy- and program-relevant questions.
+My research examines how policy choices, climate shocks, and market conditions shape the welfare, resilience, and livelihoods of farm households and rural communities. Using econometric methods for causal inference and impact evaluation, I combine household surveys, panel data, climate data, administrative records, and field experiments to address policy- and program-relevant questions in agriculture and development.
 
 ### Recent Work
 
