@@ -71,15 +71,15 @@ body {
 }
 
 .navbar a {
-  color: #D8BFD8;
+  color: #8799A8;        /* light slate */
 }
 
 .navbar a:hover {
-  color:#2F4F2F;
+  color: #2F4F2F;        /* your forest green */
 }
 
 .navbar-nav .nav-link.active {
-  color: #663399;
+  color: #663399;        /* Rubin's active color */
 }
 
 .navbar .quarto-navbar-tools .quarto-navigation-tool {
