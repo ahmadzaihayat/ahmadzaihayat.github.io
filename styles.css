@@ -61,64 +61,33 @@ body {
 
 /* ---------------------------------------------------------
    Navigation bar
+   Ed Rubin's navbar — exact rules from supplied CSS,
+   except for the retained horizontal bottom border.
    --------------------------------------------------------- */
 
 .navbar {
-  background-color: #ffffff;
-  border-bottom: 1px solid #f0edf2;
+  background: #fff;
+  border-bottom: 1px solid var(--site-border);
 }
 
-/* Site title */
-.navbar .navbar-brand {
-  color: var(--site-purple-dark) !important;
-  transition: color 0.1s ease;
-}
-
-.navbar .navbar-brand:hover,
-.navbar .navbar-brand:focus {
-  color: var(--site-hover-accent) !important;
-}
-
-/* Navigation links */
-.navbar .nav-link {
-  color: var(--site-purple) !important;
-  transition: color 0.1s ease, background-color 0.1s ease;
-}
-
-.navbar .nav-link:hover,
-.navbar .nav-link:focus {
-  color: var(--site-hover-accent) !important;
-  background-color: var(--site-hover-background);
-  border-radius: 4px;
-}
-
-/* Prevent underlines in the navbar */
 .navbar a {
-  text-decoration: none !important;
+  color: #D8BFD8;
 }
 
-.navbar .nav-link.active {
-  color: var(--site-purple-dark) !important;
-  font-weight: 500;
+.navbar a:hover {
+  color:#2F4F2F;
 }
 
-
-/* ---------------------------------------------------------
-   Navbar tools and search
-   --------------------------------------------------------- */
+.navbar-nav .nav-link.active {
+  color: #663399;
+}
 
 .navbar .quarto-navbar-tools .quarto-navigation-tool {
-  color: var(--site-purple-light);
-  transition: color 0.1s ease;
+  color: #D8BFD8;
 }
 
-.navbar .quarto-navbar-tools .quarto-navigation-tool:hover {
-  color: var(--site-blue);
-}
-
-.navbar #quarto-search.type-overlay
-.aa-Autocomplete svg.aa-SubmitIcon {
-  color: var(--site-purple-light);
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+  color: #D8BFD8;
 }
 
 
