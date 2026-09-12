@@ -36,8 +36,9 @@ format:
 ```
 
 :::{style="font-family: 'PT Mono'; font-size: 9.5pt; color: #163729;"}
-Durham, NC | Open to Relocation\
-[ahmadzaihayat@outlook.com](mailto:ahmadzaihayat@outlook.com) | +1 919-408-6341 | [Website](https://ahmadzaihayat.github.io) | [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en)
+Durham, North Carolina, USA \
+[ahmadzaihayat@outlook.com](mailto:ahmadzaihayat@outlook.com) | +1 919-408-6341 | [Website](https://ahmadzaihayat.github.io) | [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) |
+[LinkedIn](https://www.linkedin.com/in/ahmadzaihayat/)
 :::
 
 
