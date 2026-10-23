@@ -28,7 +28,11 @@ lightbox: true
 [Durham, NC, USA]{style="color: #8a7f86;"}
 
 :::: {.home-links}
-[CV](cv.html) | [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-9766-7052) | [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat) | [Email](mailto:ahmadzaihayat@outlook.com)
+[CV](cv.html) |
+<a href="https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> |
+<a href="https://orcid.org/0000-0001-9766-7052" target="_blank" rel="noopener">ORCID</a> |
+<a href="https://www.linkedin.com/in/ahmadzaihayat" target="_blank" rel="noopener">LinkedIn</a> |
+[Email](mailto:ahmadzaihayat@outlook.com)
 ::::
 
 <!--
