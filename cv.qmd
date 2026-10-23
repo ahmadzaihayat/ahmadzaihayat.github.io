@@ -25,25 +25,28 @@ toc-location: left
 
 ## Education
 
-__2015–2019__: Ph.D. in Economics (focus: Agricultural and Development Economics), University of Nottingham, UK
+__2015–2019__: Ph.D. in Economics (focus: Agricultural and Development Economics)\
+University of Nottingham, Nottingham, UK
 <!--<br>*Committee:* [Oliver Morrissey](https://www.nottingham.ac.uk/economics/people/oliver.morrissey), [Simon Appleton](https://www.nottingham.ac.uk/economics/people/simon.appleton) -->
 
-__2008–2011__: M.S. Agricultural Economics, Purdue University, USA
+__2008–2011__: M.S. in Agricultural Economics\
+Purdue University, West Lafayette, IN, USA
 
-__2002–2005__: B.S. Agronomy and Soil Sciences, Kabul University, Afghanistan
+__2002–2005__: B.S. in Agronomy and Soil Sciences\
+Kabul University, Kabul, Afghanistan
 
 <br>
 __Primary Research Interests__: Agricultural & Food Policy • Climate Shocks, Adaptation, & Agricultural Resilience • Farm & Household Economics • Food Security and Rural Livelihoods • Applied Econometrics & Causal Inference
 
 ## Academic and Research Appointments
 
-__06/2022–06/2025__: Research Fellow, [Center for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/), University of Nottingham, Nottingham, UK.
+__06/2022–06/2025__: Research Fellow, [Centre for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/), School of Economics, University of Nottingham, Nottingham, UK.
 
-__04/2019–04/2022__: Postdoctoral Research Fellow, [International Center for Biosaline Agriculture](https://www.biosaline.org/), Dubai, UAE.
+__04/2019–04/2022__: Postdoctoral Research Fellow, [International Center for Biosaline Agriculture](https://www.biosaline.org/), Academic City, Dubai, UAE.
 
 __02/2012–09/2015__: Senior Economist/Head of Monitoring, Evaluation & Learning (MEL), Department for International Development (DfID, now [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)), Kabul, Afghanistan.
 
-__03/2011–09/2015__: Assistant Professor (Teaching-focused), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan.
+__03/2011–09/2015__: Assistant Professor (Teaching-focused), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan _(retained faculty appointment alongside DfID role, 2012–2015; 1–2 courses per term)_.
 
 __07/2011–02/2012__: Economist and Value-Chain Development Specialist, FLAG International Afghanistan (FIA), Kabul, Afghanistan.
 
@@ -54,20 +57,20 @@ __03/2006–10/2007__: Teaching Assistant, Department of Agronomy and Soil Scien
 __2025–2027__: [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/), Middle East Studies Association (MESA), Washington, DC, USA (remote, based in Durham, NC, USA). 
 <br> Competitive two-year scholarly fellowship/scholar appointment supporting research on Middle East and North Africa issues.\
 
-__06/2025–Present__: External Research Fellow (remote, unpaid), [Center for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), University of Nottingham, Nottingham, UK (remote, based in Durham, NC, USA). Continuing collaborative research with CREDIT on gender, conflict, and rural household welfare in Afghanistan, leading a working paper on security, infrastructure, and the gender gap in rural labor markets using repeated cross-sectional survey data
+__06/2025–Present__: External Research Fellow (remote, unpaid), [Centre for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), University of Nottingham, Nottingham, UK (remote, based in Durham, NC, USA). Continuing collaborative research with CREDIT on gender, conflict, and rural household welfare in Afghanistan, leading a working paper on security, infrastructure, and the gender gap in rural labor markets using repeated cross-sectional survey data
 
 ## Publications
 
 ### Peer-reviewed Journal Articles
+
+__[Tests for market failures and overcoming transaction costs barriers to market participation in Afghanistan](https://doi.org/10.1007/s40847-024-00364-2)__
+<br> Ahmadzai, H. 2026. _Journal of Social and Economic Development_, 28, 637–655.
 
 __[Climate shocks, household food security and welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)__
 <br> Ahmadzai, H., and Morrissey, O. 2025. _Food Policy_, 134, 102910.
 
 __[Crop Diversification, Household Welfare and Conflict: Afghanistan 2011–2017](https://doi.org/10.1080/00220388.2024.2404576)__
 <br> Ahmadzai, H., and Morrissey, O. 2025. _The Journal of Development Studies_, 61(3), 381–399.
-
-__[Tests for market failures and overcoming transaction costs barriers to market participation in Afghanistan](https://doi.org/10.1007/s40847-024-00364-2)__
-<br> Ahmadzai, H. 2024. Advance online publication. _Journal of Social and Economic Development_.
 
 __[Empirical Analysis of Impacts of Sand and Dust Storms on Agricultural Productivity in Mongolia](https://doi.org/10.1371/journal.pone.0269271)__
 <br> Ahmadzai, H., Malhotra, A., and Tutundjian, S. 2023. _PLOS ONE_, 18(2), e0269271.
@@ -104,7 +107,7 @@ __[Impacts of Sand and Dust Storms on Agricultural Production](https://doi.org/1
 <br> Middleton, N., Ahmadzai, H., and Ayurzana, E. 2023. In _Sand and Dust Storms: A Guide to Mitigation, Adaptation, Policy and Risk Management Measures in Agriculture_, edited by Middleton, N., pp.\ 33--49. FAO.
 
 __[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-based Food Products in the United Arab Emirates](https://doi.org/10.1201/9781003112327-11)__
-<br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In _Saline Futures: State-of-the-Art in Saline Agriculture_, edited by Negacz, K., et al.,
+<br> Lyra, D., Lampakis, E., …, Ahmadzai, H., et al. 2021. In _Future of Sustainable Agriculture in Saline Environments_, edited by Negacz, K., et al.,
       pp.\ 181--199. CRC Press/Taylor & Francis Group.
 
 
@@ -113,14 +116,14 @@ __[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-b
 __[Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)__
 <br> Ahmadzai, H., Tutundjian, S., et al. 2022. _SOLAW21 Technical Background Report_, Rome: FAO.
 
-__Agri-tech: A Catalyst for Treated Wastewater Deployment in High Efficiency Food Production Systems__
-<br> Ammar, K., Fatnassi, H., and Ahmadzai, H., et al. 2022. _International Center for Biosaline Agriculture (ICBA)_.
+__[Agri-tech: A Catalyst for Treated Wastewater Deployment in High Efficiency Food Production Systems](https://www.biosaline.org/projects/developing-national-policy-utilize-treated-sewage-effluent-and-biosolids-controlled)__
+<br> Ammar, K., Fatnassi, H., and Ahmadzai, H., et al. 2022. _International Center for Biosaline Agriculture (ICBA)_, Dubai, UAE.
 
 __[Marginal Areas and Indigenous People: Priorities for Research and Action](https://doi.org/10.48565/fd4f-rk35)__
-<br> Sayed, A., and Ahmadzai, H., et al. 2022. _Food Systems Summit Brief_.
+<br> Sayed, A., and Ahmadzai, H., et al. 2022. _Food Systems Summit Brief_. Food Systems Summit 2021.
 
 __Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.google.com/file/d/1-IItzOXzALCGVaWuI0xPwA28H-lFBU9I/view?usp=sharing), [Mongolia](https://drive.google.com/file/d/1-BSS33zb3Cdg5IagJYuXT3NLAOCRnuTJ/view?usp=share_link)), Western Asia ([Iran](https://drive.google.com/file/d/1-J113MT0ZpRkPDS7vVH8OcQKvP04tAue/view?usp=sharing), [Iraq](https://drive.google.com/file/d/1-FYCkfGA_CH77o_jdys2BM9KfZcNQh63/view?usp=sharing), and [Kuwait](https://drive.google.com/file/d/1-AcGtE4OVr9UIAU3D76c5k-j8MZYY9Oy/view?usp=share_link)), and North Africa ([Algeria](https://drive.google.com/file/d/1-9MAHKnY2iO1XMKGehqwGJNO7RfIxLn3/view?usp=share_link)): An Agricultural Perspective__
-<br> Ahmadzai, H. 2021. _Food and Agriculture Organizaiton (FAO) and International Center for Biosaline Agriculture (ICBA)_.
+<br> Ahmadzai, H. 2021. _Food and Agriculture Organization (FAO) and International Center for Biosaline Agriculture (ICBA)_.
 
 [Baseline Survey Report](https://resade.biosaline.org/sites/default/files/2025-04/baseline-survey-report-resade_first-hubs-communities.pdf): Improving Agricultural Resilience to Salinity ([RESADE](https://resade.biosaline.org/about))
 <br> Ahmadzai, H. 2020. International Center for Biosaline Agriculture (ICBA), IFAD, BADEA.
@@ -179,7 +182,7 @@ __STAT 218: Introduction to Statistics__
 
 ## Research Projects and Funding
 
-__2022–2024__: Institute of International Education (IIE) and [CARA (Council for At-Risk Academics)](https://www.cara.ngo/), [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/). __Principal Investigator__. Research Support: £86,000.
+__2022–2024__: Institute of International Education (IIE), [CARA (Council for At-Risk Academics)](https://www.cara.ngo/), and the University of Nottingham, [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/). __Principal Investigator__. Research Support: £86,000.
 
 __2021__: Food and Agriculture Organization of the United Nations (FAO), [Catalyzing Investments and Actions to Enhance Resilience Against Sand and Dust Storms in Agriculture](https://www.fao.org/land-water/land/sds/en/). __Principal Investigator__. Grant Amount: $150,000.
 
@@ -198,7 +201,7 @@ __2019__: International Center for Biosaline Agriculture (ICBA), EXPO Live Phase
 
 ## Teaching Experience
 
-__2011–2015__: Assistant Professor (teaching-focused), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan.
+__2011–2015__: Assistant Professor (teaching-focused), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan (full-time; concurrent with DfID role, 2012–2015).
 
 Teaching responsibilities:
 
@@ -323,7 +326,7 @@ __2020__: [“ICBA's Quinoa Varieties Show Promise in Morocco.”](https://www.b
 
 __2020__: Responsible Conduct in Research: Research, Ethics, and Compliance. [Collaborative Institutional Training Initiative (CITI)](https://about.citiprogram.org/course/responsible-conduct-of-research-refresher/). Completed online, March 24–April 4.
 
-__2013__: Leadership and Governance of Development Programs and Projects. [Crown Agents International](https://www.linkedin.com/company/crown-agents). Dubai, United Arab Emirates, November 11–15.
+__2013__: Leadership and Governance of Development Programs and Projects. [Crown Agents International](https://www.crownagents.com/training/our-training-subjects/leadership/). Dubai, United Arab Emirates, November 11–15.
 
 __2012__: Management of Agriculture and Rural Development Projects. [Asian Institute of Technology (AIT)](https://extension.ait.ac.th/). Bangkok, Thailand, November 21–December 1.
 
@@ -357,7 +360,7 @@ __2008__: Academic English and Cross-Cultural Training Program. [International C
 - English (fluent)
 - Pashto (native)
 - Dari/Persian (fluent)
-- Arabic (conversational)
+- Arabic (basic)
 
 <!--
 ## Contact

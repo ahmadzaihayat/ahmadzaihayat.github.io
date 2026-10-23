@@ -71,11 +71,11 @@ body {
 }
 
 .navbar a {
-  color: #8799A8;        /* light slate */
+  color: #5f7384;        /* slate */
 }
 
 .navbar a:hover {
-  color: #2F4F2F;        /* your forest green */
+  color: #426b86;        /* slate blue */
 }
 
 .navbar-nav .nav-link.active {
@@ -83,11 +83,11 @@ body {
 }
 
 .navbar .quarto-navbar-tools .quarto-navigation-tool {
-  color: #D8BFD8;
+  color: #7d6c92;
 }
 
 .navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
-  color: #D8BFD8;
+  color: #7d6c92;
 }
 
 
@@ -295,4 +295,83 @@ code {
     padding-right: 0.75rem;
   }
 
+}
+
+/* ---------------------------------------------------------
+   Home page (warm, scoped to the home layout only)
+   --------------------------------------------------------- */
+
+/*
+body:has(.home-hero) {
+  background-color: #fbf8f4;
+}
+
+body:has(.home-hero) .navbar {
+  background: #fbf8f4;
+  border-bottom: 1px solid #fbf8f4;
+}
+*/
+
+/* Normal white background */
+body:has(.home-hero) {
+  background-color: #ffffff;
+}
+
+body:has(.home-hero) .navbar {
+  background: #ffffff;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.home-hero {
+  align-items: flex-start;
+  margin-top: 1.5rem;
+}
+
+.home-hero img {
+  border-radius: 4px;
+}
+
+/* Links strip under the name */
+.home-links {
+  margin: 1.1rem 0 1.4rem;
+  padding: 0.55rem 0;
+  border-top: 1px solid #eadfd6;
+  border-bottom: 1px solid #eadfd6;
+  font-size: 0.92rem;
+}
+
+.home-links p {
+  margin: 0;
+}
+
+/* Body text: warmer and darker than the site default */
+.home-main p {
+  color: #4f4650;
+  line-height: 1.6;
+}
+
+/* Section headings: small, letter-spaced, warm clay */
+.home-main h3 {
+  margin-top: 1.7rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #eadfd6;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #8a5a44;
+}
+
+/* Affiliations footer */
+.home-affil {
+  margin-top: 1.6rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid #eadfd6;
+  font-size: 0.85rem;
+  line-height: 1.55;
+}
+
+.home-affil p {
+  margin: 0;
+  color: #7a6f78;
 }
