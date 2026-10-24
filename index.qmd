@@ -21,7 +21,7 @@ lightbox: true
 
 <!-- I'm [Ed Rubin](bio.html), an associate professor in the [Department of Economics](https://economics.uoregon.edu) at the [University of Oregon](https://www.uoregon.edu). -->
 
-[Hayatullah Ahmadzai]{style="font-size: 2.2em; color: #4a3a63; font-weight: 600;"}
+[Hayatullah Ahmadzai]{style="font-size: 1.75em; color: --site-text; font-weight: 600;"}
 <br>
 [Agricultural and Development Economist]{style="color: #8a5a44; font-weight: 600;"}
 <br>
