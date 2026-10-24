@@ -21,7 +21,7 @@ The full list of publications is available in my [[web CV](cv.html) | [PDF CV](c
 
 [[Climate shocks, household food security and welfare in Afghanistan](https://doi.org/10.1016/j.foodpol.2025.102910)]{style="font-weight: 900; font-size: 12pt;"}
 <br>
-[Ahmadzai, H.](ahmadzaihayat.github.io) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *Food Policy* 134, 102910. [DOI: 10.1016/j.foodpol.2025.102910](https://doi.org/10.1016/j.foodpol.2025.102910)
+[Ahmadzai, H.](index.html) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *Food Policy* 134, 102910. [DOI: 10.1016/j.foodpol.2025.102910](https://doi.org/10.1016/j.foodpol.2025.102910)
 
 [Pre-print version](https://www.nottingham.ac.uk/credit/news/papers/2024/2404.aspx)
 <!-- [Replication materials](https://github.com/edrubin/glyphosate-birthweight) -->
@@ -56,7 +56,7 @@ Coverage: [Science](https://www.science.org/content/article/common-weed-killer-m
 
 [[Crop Diversification and Farm Household Welfare during Conflict: Afghanistan 2011-2017](https://doi.org/10.1080/00220388.2024.2404576)]{style="font-weight: 900; font-size: 12pt;"}
 <br>
-[Ahmadzai, H.](ahmadzaihayat.github.io) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *The Journal of Development Studies*. [DOI: 10.1080/00220388.2024.2404576](https://doi.org/10.1080/00220388.2024.2404576)
+[Ahmadzai, H.](index.html) and [Morrissey, O](https://www.nottingham.ac.uk/economics/people/oliver.morrissey). 2025. *The Journal of Development Studies* 61(3), 381–399. [DOI: 10.1080/00220388.2024.2404576](https://doi.org/10.1080/00220388.2024.2404576)
 
 [Pre-print version](https://www.nottingham.ac.uk/credit/documents/papers/2023/2301.pdf)
 <!--
@@ -96,9 +96,9 @@ knitr::include_graphics(c(
 
 <br>
 
-[[Assessing the impact of sand and dust storm on agriculture: Empirical evidence from Mongolia](https://doi.org/10.1080/00220388.2024.2404576)]{style="font-weight: 900; font-size: 12pt;"}
+[[Assessing the impact of sand and dust storm on agriculture: Empirical evidence from Mongolia](https://doi.org/10.1371/journal.pone.0269271)]{style="font-weight: 900; font-size: 12pt;"}
 <br>
-[Ahmadzai, H.](ahmadzaihayat.github.io). 2023. *PLOS ONE*. [DOI: 10.1371/journal.pone.0269271](https://doi.org/10.1371/journal.pone.0269271)
+[Ahmadzai, H.](index.html). 2023. *PLOS ONE*. [DOI: 10.1371/journal.pone.0269271](https://doi.org/10.1371/journal.pone.0269271)
 
 <!--
 Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [Harvard Dataverse: 10.7910/DVN/NSCJG9](https://doi.org/10.7910/DVN/NSCJG9)
@@ -141,9 +141,11 @@ knitr::include_graphics(c(
 
 [[Tests for market failures and overcoming transaction costs barriers to market participation in Afghanistan](https://link.springer.com/article/10.1007/s40847-024-00364-2)]{style="font-weight: 900; font-size: 12pt;"}
 <br>
-[Ahmadzai, H.](ahmadzaihayat.github.io). 2024. *Journal of Social and Economic Development*. [DOI: 10.1007/s40847-024-00364-2](https://doi.org/10.1007/s40847-024-00364-2)
+[Ahmadzai, H.](index.html). 2026. *Journal of Social and Economic Development* 28, 637–655. [DOI: 10.1007/s40847-024-00364-2](https://doi.org/10.1007/s40847-024-00364-2)
 
-[Pre-print version](https://www.nottingham.ac.uk/credit/documents/papers/2023/2301.pdf)
+<!-- Pre-print link removed: it pointed to the JDS paper (2301.pdf). Add the correct CREDIT pre-print here if one exists. -->
+
+[Pre-print version](https://www.nottingham.ac.uk/credit/news/papers/1810.aspx)
 <!--
 Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [Harvard Dataverse: 10.7910/DVN/NSCJG9](https://doi.org/10.7910/DVN/NSCJG9)
 -->
@@ -181,7 +183,7 @@ knitr::include_graphics(c(
 
 [[Hope for Change: Is Diversifying Production Portfolios an Ideal Strategy to Boost Farming Efficiency in Afghanistan?](https://journals.sagepub.com/doi/10.1177/14649934211031745)]{style="font-weight: 900; font-size: 12pt;"}
 <br>
-[Ahmadzai, H.](ahmadzaihayat.github.io). 2024. *Progress in Development Studies*. [DOI: 10.1177/14649934211031745](https://doi.org/10.1177/14649934211031745)
+[Ahmadzai, H.](index.html). 2022. *Progress in Development Studies*. [DOI: 10.1177/14649934211031745](https://doi.org/10.1177/14649934211031745)
 
 [Pre-print version](https://www.nottingham.ac.uk/credit/news/papers/1704.aspx)
 <!--
@@ -194,7 +196,7 @@ Replication materials: [GitHub](https://github.com/edrubin/plant-locations) | [H
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-Using Stochastic Frontier Analysis (SFA), this paper centered on analysing the impact of Crop Diversification (CD) on farm level technical efficiency in Afghanistan. Data from a household level survey conducted in 2013-2004 by the Central Statistic Organization (CSO) is used in the analysis. The results revealed that adoption of a diversified portfolio of crops by the farmers significantly improves technical efficiency. In addition, access to extension services, farm size, cattle, oxen and tractor ownership by the farm households, and regional variables were other important factors that significantly affect technical efficiency. It is evident from the results that the estimated technical efficiency indices from the preferred truncated normal distribution range from 1.5% to 99.29%, with a sample mean of 71.9%. The basic SFA model was investigated for potential endogeneity in crop diversification. Instrumental Variable (IV) method was employed to correct for endogeneity in crop diversification. The results of the IV estimation reveal that failing to account for endogeneity in the basic model leads to a downward bias which is consistent with attenuation bias (measurement error in CD implies that OLS coefficients are biased towards zero, so one would predict IV coefficients greater in absolute size). The results of crop diversification index showed the presence of a relatively low level of crop diversification. Maximum likelihood estimation of translog stochastic frontier model shows that land, labour, and other purchased inputs (fertilizer, seeds, pesticides usage) have positive impact on farm revenues. The results show an evidence of constant returns‐to‐scale.
+In this article, I present empirical evidence on the extent of crop diversification and assess its merits as a strategy for improving production efficiency in Afghanistan. The transformed Herfindahl–Harshman index is used to measure the scale and magnitude of crop diversification. I find a compelling evidence that diversifying production portfolios significantly improves production efficiencies. This finding is critical, given that the data show that nearly a third of the farm households do not diversify, achieving, on average, about 52% of potential revenues. The estimated efficiency scores reveal that, on average, the farm households in our analytical sample of over 7,000 households achieve 74% of potential revenue, with nearly 15% of households realizing less than 50% and about 23% between 50% and 70% of potential revenue. These results infer that there exist substantial inefficacies in agricultural production that can be eliminated by employing improved management practices without having to use additional inputs and production resources and rising cost of production. Our results are robust to potential endogeneity bias in crop diversification; I account for the endogeneity problem in the stochastic frontier analysis, by employing a recent estimation approach, using instrumental variable techniques. Mapping the spatial distribution of crop diversification index and estimated efficiency scores across the country revealed that districts with higher diversification levels correspond to higher efficiency indices. Aside from crop diversification, other socio-economic factors also have critical implications for efficiency; households with access to farm assets (such as land, cattle, oxen and tractor) and extension services appear to realize substantially higher production efficiencies. A direct policy recommendation that can be generated from the findings of this study is that crop diversification should be given more recognition by policymakers to enhance productivity and resilience in agriculture.
 :::
 
 ::: {.g-col-12 .g-start-2 .g-col-md-6}
@@ -252,7 +254,7 @@ knitr::include_graphics(c(
 <br> Middleton, N., Ahmadzai, H., and Ayurzana, E. 2023. In *Sand and Dust Storms: A Guide to Mitigation, Adaptation, Policy and Risk Management Measures in Agriculture*, edited by Middleton, N., pp. 33–49. FAO. [DOI: 10.4060/cc8071en](https://doi.org/10.4060/cc8071en)
 
 [From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-Based Food Products in the UAE](https://doi.org/10.1201/9781003112327-11)
-<br> Lyra, D., Lampakis, E., et al., Ahmadzai, H., et al. 2021. In *Future of Sustainable Agriculture in Saline Environments*, edited by Negacz, K., et al., pp. 181–199. CRC Press/Taylor & Francis Group. [DOI: 10.1201/9781003112327-11](https://doi.org/10.1201/9781003112327-11)
+<br> Lyra, D., Lampakis, E., Ahmadzai, H., et al. 2021. In *Future of Sustainable Agriculture in Saline Environments*, edited by Negacz, K., et al., pp. 181–199. CRC Press/Taylor & Francis Group. [DOI: 10.1201/9781003112327-11](https://doi.org/10.1201/9781003112327-11)
 
 ### [Policy Reports and Papers]{style="font-size: 0.60em; color: #3d4f63; font-weight: 600;"}
 

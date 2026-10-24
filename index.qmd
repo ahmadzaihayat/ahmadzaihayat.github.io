@@ -55,9 +55,12 @@ My research examines how policy choices, climate, and market conditions shape th
 
 <!-- 
 My research examines how policy interventions, climate shocks, and market conditions shape the welfare, resilience, and livelihoods of farm households and rural communities. Using econometric methods for causal inference and impact evaluation, I combine household surveys, panel data, climate data, administrative records, and field experiments to address policy- and program-relevant questions in agriculture and development.My work generates evidence relevant to agricultural policy, development programs, and rural livelihoods.
--->
+
 
 My research examines how climate shocks, market constraints, technology adoption, and policy interventions affect agricultural productivity, food security, and the welfare and resilience of farm households. Using household survey data, agricultural data, and climate and conflict-event data, I apply econometric methods, causal inference, and impact evaluation to address policy- and program-relevant questions in agricultural and development economics. My work contributes to understanding agricultural and rural development challenges, with implications for policy design and program implementation.
+-->
+
+I am an applied economist studying how climate and environmental shocks affect agricultural productivity, food security, and the welfare and resilience of farm households, and how markets, technology adoption, and policy shape their ability to adapt. I use household survey, climate, and geospatial data with econometric methods, including causal inference and impact evaluation, and have worked in both academic and research-for-development settings.
 
 ### Recent Work
 

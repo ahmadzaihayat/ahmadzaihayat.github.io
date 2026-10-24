@@ -24,23 +24,34 @@ Examples from a few recent projects…
 I am an agricultural economist studying how policy choices, climate, and market conditions shape the welfare outcomes and resilience of farm households and rural communities. My research applies econometric methods for causal inference and impact evaluation, drawing on household surveys, panel data, climate data, administrative records, and field experiments. As an applied economist, I use tools from econometrics, statistics, and data science to answer real-world policy- and program-relevant questions. -->
 
 
-I am an Agricultural and Development Economist specializing in applied empirical research on agricultural systems, food security, rural household welfare, agricultural policy, and climate resilience. My research examines how climate shocks, market constraints, conflict, and policy interventions affect household and agricultural outcomes, drawing on applied econometrics, causal inference, and impact evaluation to analyze household survey, administrative, climate, longitudinal, and geospatial data. Much of my work focuses on fragile and resource-constrained contexts across Asia, the Middle East, and Africa, with experience constructing and harmonizing large-scale datasets for quantitative analysis.
+I am an agricultural and development economist and applied researcher. My research examines how climate and environmental shocks and stressors, such as natural disasters, sand and dust storms, and salinity, together with market constraints and policy interventions, affect agricultural productivity, food security, and the welfare and resilience of farm households. I apply econometric methods, including causal inference and impact evaluation, to household and farm survey, administrative, climate, and geospatial data, and I have experience constructing and harmonizing large datasets in data-scarce settings.
 
-<!-- 
-I am an agricultural and development economist studying how agricultural and food policies, climate shocks, and market conditions shape farm and rural household outcomes, livelihoods, and resilience. Drawing on applied econometrics, causal inference, impact evaluation, and data science methods, I produce empirical evidence to inform policy, program design, and implementation, with much of my work focusing on fragile and resource-constrained contexts across Asia, the Middle East, and Africa. -->
+My empirical research focuses mainly on Afghanistan, with additional studies on Mongolia, Iraq, and quinoa adoption in marginal areas of the Middle East and North Africa. Through research-for-development projects, I have also carried out implementation work and field missions in Africa.
 
-I hold a PhD in [Economics](https://www.nottingham.ac.uk/economics/), with a focus on agricultural and development economics, from the [University of Nottingham](https://www.nottingham.ac.uk/), and an MS in [Agricultural and Applied Economics](https://ag.purdue.edu/department/agecon/) from [Purdue University](https://www.purdue.edu/). My research has appeared in *Food Policy*, *The Journal of Development Studies*, *PLOS ONE*, and other peer-reviewed journals, and I have presented my work at conferences and workshops including a recent invited talk at Stanford University (Center on Food Security and the Environment).
+I have worked across academia and research for development. I am currently an External Research Fellow at the [Centre for Research in Economic Development and International Trade](https://www.nottingham.ac.uk/credit/) (CREDIT), University of Nottingham, where I was a Research Fellow from 2022 to 2025, and a [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/) (2025–2027). From 2019 to 2022 I was a Postdoctoral Research Fellow at the [International Center for Biosaline Agriculture](https://www.biosaline.org/) (ICBA), an international agricultural research-for-development center, where I served as Principal Investigator or Co-Principal Investigator on externally funded projects on agricultural resilience, technology adoption, and value-chain development, combining research design, survey development, impact evaluation, and policy reporting. Earlier, as Senior Economist and Head of Monitoring, Evaluation, and Learning at the UK Department for International Development ([DfID, now FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) in Afghanistan (2012–2015), I led an evaluation team and contributed to program appraisal and household survey research. During this period I also held a teaching-focused faculty appointment at [Kabul University](https://ku.edu.af/en), teaching [agricultural economics](https://ku.edu.af/en/department-agricultural-economics-and-extension).
 
-I am currently an External Research Fellow at the [Centre for Research in Economic Development and International Trade](https://www.nottingham.ac.uk/credit/) (CREDIT), University of Nottingham, and a [MESA Global Academy Scholar](https://mesaglobalacademy.org/hayatullah-ahmadzai/) (2025–2027) with the Middle East Studies Association. Previously, I was a Research Fellow at CREDIT (2022–2025), a Postdoctoral Research Fellow at the [International Center for Biosaline Agriculture](https://www.biosaline.org/) (ICBA), and a Senior Economist and Head of Monitoring, Evaluation, and Learning (MEL) with the UK's [Department for International Development](https://www.gov.uk/government/publications/evaluation-of-comprehensive-agriculture-rural-development-facility-programme) (DfID) in Afghanistan. I have led and contributed to multi-country research programs supported by competitive funding from international organizations and development agencies, working with governments and research partners across the full research cycle, from study design and data collection through econometric analysis and translation of findings into policy and practice. Earlier in my career, I taught [agricultural economics](https://ku.edu.af/en/department-agricultural-economics-and-extension) at [Kabul University](https://ku.edu.af/en).
+I hold a PhD in [Economics](https://www.nottingham.ac.uk/economics/) (focus: agricultural and development economics) from the [University of Nottingham](https://www.nottingham.ac.uk/) and an MS in [Agricultural Economics](https://ag.purdue.edu/department/agecon/) from [Purdue University](https://www.purdue.edu/). My work includes 11 peer-reviewed journal articles, in *Food Policy*, *The Journal of Development Studies*, *PLOS ONE*, and other journals, as well as book chapters and policy reports for FAO and partners. I gave an invited talk at Stanford University (Center on Food Security and the Environment) in April 2026.
 
 I welcome opportunities to collaborate with universities, think tanks, and research and policy institutions working on agricultural and food policy, climate resilience, and rural economic development.
 
+
+:::: {.home-links}
+[CV](cv.html) |
+<a href="https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> |
+<a href="https://orcid.org/0000-0001-9766-7052" target="_blank" rel="noopener">ORCID</a> |
+<a href="https://www.linkedin.com/in/ahmadzaihayat" target="_blank" rel="noopener">LinkedIn</a> |
+[Email](mailto:ahmadzaihayat@outlook.com)
+::::
+
+
+
+<!--
 ### Contact
 
 Email: ahmadzaihayat@outlook.com 
 <br> 
 [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat)
-<!--
+
 [Google Scholar](https://scholar.google.com/citations?user=iTDaZLcAAAAJ&hl=en) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmadzaihayat)
 -->
 
