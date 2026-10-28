@@ -74,6 +74,19 @@ __03/2006–10/2007__: Teaching Assistant, Department of Agronomy and Soil Scien
 
 ## Academic and Research Appointments
 
+__2025–present__: Research Fellowships and Affiliations
+
+*MESA Global Academy Scholar*, [Middle East Studies Association (MESA)](https://mesaglobalacademy.org/hayatullah-ahmadzai/), Washington, DC, USA (remote; based in Durham, NC, USA). Awarded for 2025–2026 and competitively renewed for 2026–2027.\
+*External Research Fellow* (remote, unpaid), [Centre for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), University of Nottingham, Nottingham, UK. Continuing affiliation following Research Fellow appointment (2022–2025).
+
+<!--
+__2025–present__: Research Fellowships and Affiliations
+
+__2025–present__: *Research Fellowships and Affiliations*\
+*MESA Global Academy Scholar*, [Middle East Studies Association (MESA)](https://mesaglobalacademy.org/hayatullah-ahmadzai/), Washington, DC, USA (remote; based in Durham, NC, USA). Awarded for 2025–2026 and competitively renewed for 2026–2027.\
+*External Research Fellow* (remote, unpaid), [Centre for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/fellows/fellows.aspx), University of Nottingham, Nottingham, UK. Continuing affiliation following Research Fellow appointment (2022–2025).
+-->
+
 __06/2022–06/2025__: Research Fellow  
 [Centre for Research in Economic Development and International Trade (CREDIT)](https://www.nottingham.ac.uk/credit/), School of Economics, University of Nottingham, Nottingham, UK.
 
@@ -84,8 +97,7 @@ __02/2012–09/2015__: Senior Economist/Head of Monitoring, Evaluation & Learnin
 Department for International Development (DfID, now [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)), Kabul, Afghanistan.
 
 __03/2011–09/2015__: Assistant Professor (Teaching-focused)  
-[Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan.  
-_(Retained faculty appointment alongside DfID role, 2012–2015; 1–2 courses per term.)_
+[Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan _(held concurrently with the FLAG role, 2011--2012, and the DfID role, 2012--2015; 1--2 courses per term)_
 
 __07/2011–02/2012__: Economist and Value-Chain Development Specialist  
 FLAG International Afghanistan (FIA), Kabul, Afghanistan.
@@ -93,6 +105,7 @@ FLAG International Afghanistan (FIA), Kabul, Afghanistan.
 __03/2006–10/2007__: Teaching Assistant  
 Department of Agronomy and Soil Sciences, Kabul University, Kabul, Afghanistan.
 
+<!--
 ## Research Affiliations and Fellowships
 
 __2025–2027__: MESA Global Academy Scholar  
@@ -108,6 +121,8 @@ __06/2025–Present__: External Research Fellow (remote, unpaid)
 <div class="entry-description">
 Continuing collaborative research on gender, conflict, and rural household welfare in Afghanistan, including a working paper on security, infrastructure, and the gender gap in rural labor markets using nationally-representative repeated cross-sectional survey data.
 </div>
+
+-->
 
 ## Publications
 
@@ -152,6 +167,7 @@ __[Trends in Quinoa Adoption in Marginal Areas, Economic Viability, and Policy O
 __[Marginal Areas and Indigenous People Priorities for Research and Action](https://doi.org/10.1007/978-3-031-15703-5_14)__
 <br> Sayed, A., and Ahmadzai, H., et al. 2023. In _Science and Innovations for Food Systems Transformation_, edited by von Braun, J., et al.,
       pp.\ 261--279. Springer International Publishing.
+      *(Expanded from the 2021 Food Systems Summit brief; see Policy Papers and Technical Reports.)*
 
 __[Impacts of Sand and Dust Storms on Agricultural Production](https://doi.org/10.4060/cc8071en)__
 <br> Middleton, N., Ahmadzai, H., and Ayurzana, E. 2023. In _Sand and Dust Storms: A Guide to Mitigation, Adaptation, Policy and Risk Management Measures in Agriculture_, edited by Middleton, N., pp.\ 33--49. FAO.
@@ -161,7 +177,7 @@ __[From Desert Farm to Fork: Value Chain Development for Innovative Salicornia-b
       pp.\ 181--199. CRC Press/Taylor & Francis Group.
 
 
-### Policy Papers & Technical Reports 
+### Policy Papers and Technical Reports 
 
 __[Marginal Lands: Potential for Agricultural Development, Food Security and Poverty Reduction](https://doi.org/10.4060/cc2838en)__
 <br> Ahmadzai, H., Tutundjian, S., et al. 2022. _SOLAW21 Technical Background Report_, Rome: FAO.
@@ -178,7 +194,7 @@ __Addressing Sand and Dust Storms in Northeast Asia ([China](https://drive.googl
 [Baseline Survey Report](https://resade.biosaline.org/sites/default/files/2025-04/baseline-survey-report-resade_first-hubs-communities.pdf): Improving Agricultural Resilience to Salinity ([RESADE](https://resade.biosaline.org/about))
 <br> Ahmadzai, H. 2020. International Center for Biosaline Agriculture (ICBA), IFAD, BADEA.
 
-### Working Papers
+### Resarch in Progress
 
 __Security, Infrastructure, and Gender Gap in Rural Labor Markets: Evidence from Afghanistan's Repeated Cross-Sectional Surveys__
 <br> Ahmadzai, H. 2026.
@@ -232,7 +248,7 @@ __STAT 218: Introduction to Statistics__
 
 ## Research Projects and Funding
 
-__2022–2024__: Institute of International Education (IIE), [CARA (Council for At-Risk Academics)](https://www.cara.ngo/), and the University of Nottingham, [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/). __Principal Investigator__. Research Support: £86,000.
+**2022**: [IIE-SRF Afghanistan Emergency Initiative Fund](https://www.scholarrescuefund.org/), Institute of International Education-Scholar Rescue Fund (IIE-SRF), [Cara (Council for At-Risk Academics)](https://www.cara.ngo/), and the University of Nottingham. **Research Fellowship Award** (research conducted at CREDIT). Research support: £86,000.
 
 __2021__: Food and Agriculture Organization of the United Nations (FAO), [Catalyzing Investments and Actions to Enhance Resilience Against Sand and Dust Storms in Agriculture](https://www.fao.org/land-water/land/sds/en/). __Principal Investigator__. Grant Amount: $150,000.
 
@@ -251,7 +267,7 @@ __2019__: International Center for Biosaline Agriculture (ICBA), EXPO Live Phase
 
 ## Teaching Experience
 
-__2011–2015__: Assistant Professor (teaching-focused), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan (full-time; concurrent with DfID role, 2012–2015).  
+__2011–2015__: Assistant Professor (teaching-focused), [Department of Agricultural Economics and Extension](https://ku.edu.af/en/department-agricultural-economics-and-extension), Kabul University, Kabul, Afghanistan _(held concurrently with the FLAG role, 2011--2012, and the DfID role, 2012--2015; 1--2 courses per term)_.  
 
 
 Teaching responsibilities:
@@ -296,7 +312,7 @@ __2013__: University of Nebraska–Lincoln, Statistics Departmental Seminar
 __2012__: International Conference of Agricultural Economists (poster)
 
 -->
-## Selected Presentations & Talks 
+## Presentations and Talks 
 
 ### Invited Talks
 
@@ -407,7 +423,7 @@ __2008__: Academic English and Cross-Cultural Training Program. [International C
 
 - __Research Management:__ Grant writing and proposal development; multidisciplinary research collaboration; project management; research supervision and mentoring; technical and scientific reporting.
 
-### Linguistic
+### Languages 
 
 - English (fluent)
 - Pashto (native)
